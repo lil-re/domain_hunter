@@ -1,0 +1,7014 @@
+[
+  {
+    "extension": "aaa",
+    "name": "Aaa"
+  },
+  {
+    "extension": "aarp",
+    "name": "Aarp"
+  },
+  {
+    "extension": "abarth",
+    "name": "Abarth"
+  },
+  {
+    "extension": "abb",
+    "name": "Abb"
+  },
+  {
+    "extension": "abbott",
+    "name": "Abbott"
+  },
+  {
+    "extension": "abbvie",
+    "name": "Abbvie"
+  },
+  {
+    "extension": "abc",
+    "name": "Abc"
+  },
+  {
+    "extension": "able",
+    "name": "Able"
+  },
+  {
+    "extension": "abogado",
+    "name": "Abogado"
+  },
+  {
+    "extension": "abudhabi",
+    "name": "Abudhabi"
+  },
+  {
+    "extension": "ac",
+    "name": "ac - Ascension Island"
+  },
+  {
+    "extension": "ac.cn",
+    "name": "ac.cn - People's Republic of China"
+  },
+  {
+    "extension": "ac.jp",
+    "name": "ac.jp - Japan"
+  },
+  {
+    "extension": "ac.nz",
+    "name": "ac.nz - New Zealand"
+  },
+  {
+    "extension": "ac.th",
+    "name": "ac.th - Thailand"
+  },
+  {
+    "extension": "ac.uk",
+    "name": "ac.uk - United Kingdom"
+  },
+  {
+    "extension": "academy",
+    "name": "Academy"
+  },
+  {
+    "extension": "accenture",
+    "name": "Accenture"
+  },
+  {
+    "extension": "accountant",
+    "name": "Accountant"
+  },
+  {
+    "extension": "accountants",
+    "name": "Accountants"
+  },
+  {
+    "extension": "acer",
+    "name": "Acer"
+  },
+  {
+    "extension": "aco",
+    "name": "Aco"
+  },
+  {
+    "extension": "active",
+    "name": "Active"
+  },
+  {
+    "extension": "actor",
+    "name": "Actor"
+  },
+  {
+    "extension": "ad",
+    "name": "ad - Andorra"
+  },
+  {
+    "extension": "ad.jp",
+    "name": "ad.jp - Japan"
+  },
+  {
+    "extension": "adac",
+    "name": "Adac"
+  },
+  {
+    "extension": "ads",
+    "name": "Ads"
+  },
+  {
+    "extension": "adult",
+    "name": "Adult"
+  },
+  {
+    "extension": "ae",
+    "name": "ae - United Arab Emirates"
+  },
+  {
+    "extension": "aeg",
+    "name": "Aeg"
+  },
+  {
+    "extension": "aero",
+    "name": "aero - Aviation"
+  },
+  {
+    "extension": "aetna",
+    "name": "Aetna"
+  },
+  {
+    "extension": "af",
+    "name": "af - Afghanistan"
+  },
+  {
+    "extension": "afamilycompany",
+    "name": "Afamilycompany"
+  },
+  {
+    "extension": "afl",
+    "name": "Afl"
+  },
+  {
+    "extension": "africa",
+    "name": "Africa"
+  },
+  {
+    "extension": "africamagic",
+    "name": "Africamagic"
+  },
+  {
+    "extension": "ag",
+    "name": "ag - Antigua and Barbuda"
+  },
+  {
+    "extension": "agakhan",
+    "name": "Agakhan"
+  },
+  {
+    "extension": "agency",
+    "name": "Agency"
+  },
+  {
+    "extension": "ai",
+    "name": "ai - Anguilla"
+  },
+  {
+    "extension": "aig",
+    "name": "Aig"
+  },
+  {
+    "extension": "aigo",
+    "name": "Aigo"
+  },
+  {
+    "extension": "airbus",
+    "name": "Airbus"
+  },
+  {
+    "extension": "airforce",
+    "name": "Airforce"
+  },
+  {
+    "extension": "airtel",
+    "name": "Airtel"
+  },
+  {
+    "extension": "akdn",
+    "name": "Akdn"
+  },
+  {
+    "extension": "al",
+    "name": "al - Albania"
+  },
+  {
+    "extension": "alcon",
+    "name": "Alcon"
+  },
+  {
+    "extension": "alfaromeo",
+    "name": "Alfaromeo"
+  },
+  {
+    "extension": "alibaba",
+    "name": "Alibaba"
+  },
+  {
+    "extension": "alipay",
+    "name": "Alipay"
+  },
+  {
+    "extension": "allfinanz",
+    "name": "Allfinanz"
+  },
+  {
+    "extension": "allfinanzberater",
+    "name": "Allfinanzberater"
+  },
+  {
+    "extension": "allfinanzberatung",
+    "name": "Allfinanzberatung"
+  },
+  {
+    "extension": "allstate",
+    "name": "Allstate"
+  },
+  {
+    "extension": "ally",
+    "name": "Ally"
+  },
+  {
+    "extension": "alsace",
+    "name": "Alsace"
+  },
+  {
+    "extension": "alstom",
+    "name": "Alstom"
+  },
+  {
+    "extension": "am",
+    "name": "am - Armenia"
+  },
+  {
+    "extension": "amazon",
+    "name": "Amazon"
+  },
+  {
+    "extension": "americanexpress",
+    "name": "Americanexpress"
+  },
+  {
+    "extension": "americanfamily",
+    "name": "Americanfamily"
+  },
+  {
+    "extension": "amex",
+    "name": "Amex"
+  },
+  {
+    "extension": "amfam",
+    "name": "Amfam"
+  },
+  {
+    "extension": "amica",
+    "name": "Amica"
+  },
+  {
+    "extension": "amp",
+    "name": "Amp"
+  },
+  {
+    "extension": "amsterdam",
+    "name": "Amsterdam"
+  },
+  {
+    "extension": "an",
+    "name": "an - Netherlands Antilles"
+  },
+  {
+    "extension": "analytics",
+    "name": "Analytics"
+  },
+  {
+    "extension": "and",
+    "name": "And"
+  },
+  {
+    "extension": "android",
+    "name": "Android"
+  },
+  {
+    "extension": "anquan",
+    "name": "Anquan"
+  },
+  {
+    "extension": "ansons",
+    "name": "Ansons"
+  },
+  {
+    "extension": "anthem",
+    "name": "Anthem"
+  },
+  {
+    "extension": "antivirus",
+    "name": "Antivirus"
+  },
+  {
+    "extension": "anz",
+    "name": "Anz"
+  },
+  {
+    "extension": "ao",
+    "name": "ao - Angola"
+  },
+  {
+    "extension": "aol",
+    "name": "Aol"
+  },
+  {
+    "extension": "apartments",
+    "name": "Apartments"
+  },
+  {
+    "extension": "app",
+    "name": "App"
+  },
+  {
+    "extension": "apple",
+    "name": "Apple"
+  },
+  {
+    "extension": "aq",
+    "name": "aq - Antarctica"
+  },
+  {
+    "extension": "aquarelle",
+    "name": "Aquarelle"
+  },
+  {
+    "extension": "aquitaine",
+    "name": "Aquitaine"
+  },
+  {
+    "extension": "ar",
+    "name": "ar - Argentina"
+  },
+  {
+    "extension": "arab",
+    "name": "Arab"
+  },
+  {
+    "extension": "aramco",
+    "name": "Aramco"
+  },
+  {
+    "extension": "archi",
+    "name": "Archi"
+  },
+  {
+    "extension": "architect",
+    "name": "Architect"
+  },
+  {
+    "extension": "are",
+    "name": "Are"
+  },
+  {
+    "extension": "army",
+    "name": "Army"
+  },
+  {
+    "extension": "arpa",
+    "name": "arpa - Address and Routing Parameter Area"
+  },
+  {
+    "extension": "art",
+    "name": "Art"
+  },
+  {
+    "extension": "arte",
+    "name": "Arte"
+  },
+  {
+    "extension": "as",
+    "name": "as - American Samoa"
+  },
+  {
+    "extension": "asda",
+    "name": "Asda"
+  },
+  {
+    "extension": "asia",
+    "name": "asia - DotAsia Organization"
+  },
+  {
+    "extension": "asn.au",
+    "name": "asn.au - Australia"
+  },
+  {
+    "extension": "associates",
+    "name": "Associates"
+  },
+  {
+    "extension": "astrium",
+    "name": "Astrium"
+  },
+  {
+    "extension": "at",
+    "name": "at - Austria"
+  },
+  {
+    "extension": "athleta",
+    "name": "Athleta"
+  },
+  {
+    "extension": "attorney",
+    "name": "Attorney"
+  },
+  {
+    "extension": "au",
+    "name": "au - Australia"
+  },
+  {
+    "extension": "auction",
+    "name": "Auction"
+  },
+  {
+    "extension": "audi",
+    "name": "Audi"
+  },
+  {
+    "extension": "audible",
+    "name": "Audible"
+  },
+  {
+    "extension": "audio",
+    "name": "Audio"
+  },
+  {
+    "extension": "auspost",
+    "name": "Auspost"
+  },
+  {
+    "extension": "author",
+    "name": "Author"
+  },
+  {
+    "extension": "auto",
+    "name": "Auto"
+  },
+  {
+    "extension": "autoinsurance",
+    "name": "Autoinsurance"
+  },
+  {
+    "extension": "autos",
+    "name": "Autos"
+  },
+  {
+    "extension": "avery",
+    "name": "Avery"
+  },
+  {
+    "extension": "avianca",
+    "name": "Avianca"
+  },
+  {
+    "extension": "aw",
+    "name": "aw - Aruba"
+  },
+  {
+    "extension": "aws",
+    "name": "Aws"
+  },
+  {
+    "extension": "ax",
+    "name": "ax - Aland Islands"
+  },
+  {
+    "extension": "axa",
+    "name": "Axa"
+  },
+  {
+    "extension": "axis",
+    "name": "Axis"
+  },
+  {
+    "extension": "az",
+    "name": "az - Azerbaijan"
+  },
+  {
+    "extension": "azure",
+    "name": "Azure"
+  },
+  {
+    "extension": "ba",
+    "name": "ba - Bosnia and Herzegovina"
+  },
+  {
+    "extension": "baby",
+    "name": "Baby"
+  },
+  {
+    "extension": "baidu",
+    "name": "Baidu"
+  },
+  {
+    "extension": "banamex",
+    "name": "Banamex"
+  },
+  {
+    "extension": "bananarepublic",
+    "name": "Bananarepublic"
+  },
+  {
+    "extension": "band",
+    "name": "Band"
+  },
+  {
+    "extension": "bank",
+    "name": "Bank"
+  },
+  {
+    "extension": "banque",
+    "name": "Banque"
+  },
+  {
+    "extension": "bar",
+    "name": "Bar"
+  },
+  {
+    "extension": "barcelona",
+    "name": "Barcelona"
+  },
+  {
+    "extension": "barclaycard",
+    "name": "Barclaycard"
+  },
+  {
+    "extension": "barclays",
+    "name": "Barclays"
+  },
+  {
+    "extension": "barefoot",
+    "name": "Barefoot"
+  },
+  {
+    "extension": "bargains",
+    "name": "Bargains"
+  },
+  {
+    "extension": "baseball",
+    "name": "Baseball"
+  },
+  {
+    "extension": "basketball",
+    "name": "Basketball"
+  },
+  {
+    "extension": "bauhaus",
+    "name": "Bauhaus"
+  },
+  {
+    "extension": "bayern",
+    "name": "Bayern"
+  },
+  {
+    "extension": "bb",
+    "name": "bb - Barbados"
+  },
+  {
+    "extension": "bbb",
+    "name": "Bbb"
+  },
+  {
+    "extension": "bbc",
+    "name": "Bbc"
+  },
+  {
+    "extension": "bbt",
+    "name": "Bbt"
+  },
+  {
+    "extension": "bbva",
+    "name": "Bbva"
+  },
+  {
+    "extension": "bcg",
+    "name": "Bcg"
+  },
+  {
+    "extension": "bcn",
+    "name": "Bcn"
+  },
+  {
+    "extension": "bd",
+    "name": "bd - Bangladesh"
+  },
+  {
+    "extension": "be",
+    "name": "be - Belgium"
+  },
+  {
+    "extension": "beats",
+    "name": "Beats"
+  },
+  {
+    "extension": "beauty",
+    "name": "Beauty"
+  },
+  {
+    "extension": "beer",
+    "name": "Beer"
+  },
+  {
+    "extension": "beknown",
+    "name": "Beknown"
+  },
+  {
+    "extension": "bentley",
+    "name": "Bentley"
+  },
+  {
+    "extension": "berlin",
+    "name": "Berlin"
+  },
+  {
+    "extension": "best",
+    "name": "Best"
+  },
+  {
+    "extension": "bestbuy",
+    "name": "Bestbuy"
+  },
+  {
+    "extension": "bet",
+    "name": "Bet"
+  },
+  {
+    "extension": "bf",
+    "name": "bf - Burkina Faso"
+  },
+  {
+    "extension": "bg",
+    "name": "bg - Bulgaria"
+  },
+  {
+    "extension": "bh",
+    "name": "bh - Bahrain"
+  },
+  {
+    "extension": "bharti",
+    "name": "Bharti"
+  },
+  {
+    "extension": "bi",
+    "name": "bi - Burundi"
+  },
+  {
+    "extension": "bible",
+    "name": "Bible"
+  },
+  {
+    "extension": "bid",
+    "name": "Bid"
+  },
+  {
+    "extension": "bike",
+    "name": "Bike"
+  },
+  {
+    "extension": "bing",
+    "name": "Bing"
+  },
+  {
+    "extension": "bingo",
+    "name": "Bingo"
+  },
+  {
+    "extension": "bio",
+    "name": "Bio"
+  },
+  {
+    "extension": "biz",
+    "name": "biz - Businesses"
+  },
+  {
+    "extension": "bj",
+    "name": "bj - Benin"
+  },
+  {
+    "extension": "black",
+    "name": "Black"
+  },
+  {
+    "extension": "blackfriday",
+    "name": "Blackfriday"
+  },
+  {
+    "extension": "blanco",
+    "name": "Blanco"
+  },
+  {
+    "extension": "blockbuster",
+    "name": "Blockbuster"
+  },
+  {
+    "extension": "blog",
+    "name": "Blog"
+  },
+  {
+    "extension": "bloomberg",
+    "name": "Bloomberg"
+  },
+  {
+    "extension": "bloomingdales",
+    "name": "Bloomingdales"
+  },
+  {
+    "extension": "blue",
+    "name": "Blue"
+  },
+  {
+    "extension": "bm",
+    "name": "bm - Bermuda"
+  },
+  {
+    "extension": "bms",
+    "name": "Bms"
+  },
+  {
+    "extension": "bmw",
+    "name": "Bmw"
+  },
+  {
+    "extension": "bn",
+    "name": "bn - Brunei"
+  },
+  {
+    "extension": "bnl",
+    "name": "Bnl"
+  },
+  {
+    "extension": "bnpparibas",
+    "name": "Bnpparibas"
+  },
+  {
+    "extension": "bo",
+    "name": "bo - Bolivia"
+  },
+  {
+    "extension": "boats",
+    "name": "Boats"
+  },
+  {
+    "extension": "boehringer",
+    "name": "Boehringer"
+  },
+  {
+    "extension": "bofa",
+    "name": "Bofa"
+  },
+  {
+    "extension": "bom",
+    "name": "Bom"
+  },
+  {
+    "extension": "bond",
+    "name": "Bond"
+  },
+  {
+    "extension": "boo",
+    "name": "Boo"
+  },
+  {
+    "extension": "book",
+    "name": "Book"
+  },
+  {
+    "extension": "booking",
+    "name": "Booking"
+  },
+  {
+    "extension": "boots",
+    "name": "Boots"
+  },
+  {
+    "extension": "bosch",
+    "name": "Bosch"
+  },
+  {
+    "extension": "bostik",
+    "name": "Bostik"
+  },
+  {
+    "extension": "boston",
+    "name": "Boston"
+  },
+  {
+    "extension": "bot",
+    "name": "Bot"
+  },
+  {
+    "extension": "boutique",
+    "name": "Boutique"
+  },
+  {
+    "extension": "box",
+    "name": "Box"
+  },
+  {
+    "extension": "br",
+    "name": "br - Brazil"
+  },
+  {
+    "extension": "bradesco",
+    "name": "Bradesco"
+  },
+  {
+    "extension": "bridgestone",
+    "name": "Bridgestone"
+  },
+  {
+    "extension": "broadway",
+    "name": "Broadway"
+  },
+  {
+    "extension": "broker",
+    "name": "Broker"
+  },
+  {
+    "extension": "brother",
+    "name": "Brother"
+  },
+  {
+    "extension": "brussels",
+    "name": "Brussels"
+  },
+  {
+    "extension": "bs",
+    "name": "bs - Bahamas"
+  },
+  {
+    "extension": "bt",
+    "name": "bt - Bhutan"
+  },
+  {
+    "extension": "bu",
+    "name": "bu - Burma"
+  },
+  {
+    "extension": "budapest",
+    "name": "Budapest"
+  },
+  {
+    "extension": "bugatti",
+    "name": "Bugatti"
+  },
+  {
+    "extension": "buick",
+    "name": "Buick"
+  },
+  {
+    "extension": "build",
+    "name": "Build"
+  },
+  {
+    "extension": "builders",
+    "name": "Builders"
+  },
+  {
+    "extension": "business",
+    "name": "Business"
+  },
+  {
+    "extension": "buy",
+    "name": "Buy"
+  },
+  {
+    "extension": "buzz",
+    "name": "Buzz"
+  },
+  {
+    "extension": "bv",
+    "name": "bv - Bouvet Island"
+  },
+  {
+    "extension": "bw",
+    "name": "bw - Botswana"
+  },
+  {
+    "extension": "bway",
+    "name": "Bway"
+  },
+  {
+    "extension": "by",
+    "name": "by - Belarus"
+  },
+  {
+    "extension": "bz",
+    "name": "bz - Belize"
+  },
+  {
+    "extension": "bzh",
+    "name": "Bzh"
+  },
+  {
+    "extension": "ca",
+    "name": "ca - Canada"
+  },
+  {
+    "extension": "cab",
+    "name": "Cab"
+  },
+  {
+    "extension": "cadillac",
+    "name": "Cadillac"
+  },
+  {
+    "extension": "cafe",
+    "name": "Cafe"
+  },
+  {
+    "extension": "cal",
+    "name": "Cal"
+  },
+  {
+    "extension": "call",
+    "name": "Call"
+  },
+  {
+    "extension": "calvinklein",
+    "name": "Calvinklein"
+  },
+  {
+    "extension": "cam",
+    "name": "Cam"
+  },
+  {
+    "extension": "camera",
+    "name": "Camera"
+  },
+  {
+    "extension": "camp",
+    "name": "Camp"
+  },
+  {
+    "extension": "canalplus",
+    "name": "Canalplus"
+  },
+  {
+    "extension": "cancerresearch",
+    "name": "Cancerresearch"
+  },
+  {
+    "extension": "canon",
+    "name": "Canon"
+  },
+  {
+    "extension": "capetown",
+    "name": "Capetown"
+  },
+  {
+    "extension": "capital",
+    "name": "Capital"
+  },
+  {
+    "extension": "capitalone",
+    "name": "Capitalone"
+  },
+  {
+    "extension": "car",
+    "name": "Car"
+  },
+  {
+    "extension": "caravan",
+    "name": "Caravan"
+  },
+  {
+    "extension": "cards",
+    "name": "Cards"
+  },
+  {
+    "extension": "care",
+    "name": "Care"
+  },
+  {
+    "extension": "career",
+    "name": "Career"
+  },
+  {
+    "extension": "careers",
+    "name": "Careers"
+  },
+  {
+    "extension": "caremore",
+    "name": "Caremore"
+  },
+  {
+    "extension": "carinsurance",
+    "name": "Carinsurance"
+  },
+  {
+    "extension": "cars",
+    "name": "Cars"
+  },
+  {
+    "extension": "cartier",
+    "name": "Cartier"
+  },
+  {
+    "extension": "casa",
+    "name": "Casa"
+  },
+  {
+    "extension": "case",
+    "name": "Case"
+  },
+  {
+    "extension": "caseih",
+    "name": "Caseih"
+  },
+  {
+    "extension": "cash",
+    "name": "Cash"
+  },
+  {
+    "extension": "cashbackbonus",
+    "name": "Cashbackbonus"
+  },
+  {
+    "extension": "casino",
+    "name": "Casino"
+  },
+  {
+    "extension": "cat",
+    "name": "cat - Catalan language "
+  },
+  {
+    "extension": "catalonia",
+    "name": "Catalonia"
+  },
+  {
+    "extension": "catering",
+    "name": "Catering"
+  },
+  {
+    "extension": "catholic",
+    "name": "Catholic"
+  },
+  {
+    "extension": "cba",
+    "name": "Cba"
+  },
+  {
+    "extension": "cbn",
+    "name": "Cbn"
+  },
+  {
+    "extension": "cbre",
+    "name": "Cbre"
+  },
+  {
+    "extension": "cbs",
+    "name": "Cbs"
+  },
+  {
+    "extension": "cc",
+    "name": "cc - Cocos (Keeling) Islands"
+  },
+  {
+    "extension": "cd",
+    "name": "cd - Democratic Republic of the Congo"
+  },
+  {
+    "extension": "ceb",
+    "name": "Ceb"
+  },
+  {
+    "extension": "center",
+    "name": "Center"
+  },
+  {
+    "extension": "ceo",
+    "name": "Ceo"
+  },
+  {
+    "extension": "cern",
+    "name": "Cern"
+  },
+  {
+    "extension": "cf",
+    "name": "cf - Central African Republic"
+  },
+  {
+    "extension": "cfa",
+    "name": "Cfa"
+  },
+  {
+    "extension": "cfd",
+    "name": "Cfd"
+  },
+  {
+    "extension": "cg",
+    "name": "cg - Republic of the Congo"
+  },
+  {
+    "extension": "ch",
+    "name": "ch - Switzerland"
+  },
+  {
+    "extension": "chanel",
+    "name": "Chanel"
+  },
+  {
+    "extension": "changiairport",
+    "name": "Changiairport"
+  },
+  {
+    "extension": "channel",
+    "name": "Channel"
+  },
+  {
+    "extension": "charity",
+    "name": "Charity"
+  },
+  {
+    "extension": "chartis",
+    "name": "Chartis"
+  },
+  {
+    "extension": "chase",
+    "name": "Chase"
+  },
+  {
+    "extension": "chat",
+    "name": "Chat"
+  },
+  {
+    "extension": "chatr",
+    "name": "Chatr"
+  },
+  {
+    "extension": "cheap",
+    "name": "Cheap"
+  },
+  {
+    "extension": "chesapeake",
+    "name": "Chesapeake"
+  },
+  {
+    "extension": "chevrolet",
+    "name": "Chevrolet"
+  },
+  {
+    "extension": "chevy",
+    "name": "Chevy"
+  },
+  {
+    "extension": "chintai",
+    "name": "Chintai"
+  },
+  {
+    "extension": "chk",
+    "name": "Chk"
+  },
+  {
+    "extension": "chloe",
+    "name": "Chloe"
+  },
+  {
+    "extension": "christmas",
+    "name": "Christmas"
+  },
+  {
+    "extension": "chrome",
+    "name": "Chrome"
+  },
+  {
+    "extension": "chrysler",
+    "name": "Chrysler"
+  },
+  {
+    "extension": "church",
+    "name": "Church"
+  },
+  {
+    "extension": "ci",
+    "name": "ci - Côte d'Ivoire"
+  },
+  {
+    "extension": "cialis",
+    "name": "Cialis"
+  },
+  {
+    "extension": "cimb",
+    "name": "Cimb"
+  },
+  {
+    "extension": "cipriani",
+    "name": "Cipriani"
+  },
+  {
+    "extension": "circle",
+    "name": "Circle"
+  },
+  {
+    "extension": "cisco",
+    "name": "Cisco"
+  },
+  {
+    "extension": "citadel",
+    "name": "Citadel"
+  },
+  {
+    "extension": "citi",
+    "name": "Citi"
+  },
+  {
+    "extension": "citic",
+    "name": "Citic"
+  },
+  {
+    "extension": "city",
+    "name": "City"
+  },
+  {
+    "extension": "cityeats",
+    "name": "Cityeats"
+  },
+  {
+    "extension": "ck",
+    "name": "ck - Cook Islands"
+  },
+  {
+    "extension": "cl",
+    "name": "cl - Chile"
+  },
+  {
+    "extension": "claims",
+    "name": "Claims"
+  },
+  {
+    "extension": "cleaning",
+    "name": "Cleaning"
+  },
+  {
+    "extension": "click",
+    "name": "Click"
+  },
+  {
+    "extension": "clinic",
+    "name": "Clinic"
+  },
+  {
+    "extension": "clinique",
+    "name": "Clinique"
+  },
+  {
+    "extension": "clothing",
+    "name": "Clothing"
+  },
+  {
+    "extension": "cloud",
+    "name": "Cloud"
+  },
+  {
+    "extension": "club",
+    "name": "Club"
+  },
+  {
+    "extension": "clubmed",
+    "name": "Clubmed"
+  },
+  {
+    "extension": "cm",
+    "name": "cm - Cameroon"
+  },
+  {
+    "extension": "cn",
+    "name": "cn - People's Republic of China"
+  },
+  {
+    "extension": "co",
+    "name": "co - Colombia"
+  },
+  {
+    "extension": "co.at",
+    "name": "co.at - Austria"
+  },
+  {
+    "extension": "co.il",
+    "name": "co.il - Israel"
+  },
+  {
+    "extension": "co.jp",
+    "name": "co.jp - Japan"
+  },
+  {
+    "extension": "co.nz",
+    "name": "co.nz - New Zealand"
+  },
+  {
+    "extension": "co.th",
+    "name": "co.th - Thailand"
+  },
+  {
+    "extension": "co.uk",
+    "name": "co.uk - United Kingdom"
+  },
+  {
+    "extension": "co.za",
+    "name": "co.za - South Africa"
+  },
+  {
+    "extension": "coach",
+    "name": "Coach"
+  },
+  {
+    "extension": "codes",
+    "name": "Codes"
+  },
+  {
+    "extension": "coffee",
+    "name": "Coffee"
+  },
+  {
+    "extension": "college",
+    "name": "College"
+  },
+  {
+    "extension": "cologne",
+    "name": "Cologne"
+  },
+  {
+    "extension": "com",
+    "name": "com - Commercial"
+  },
+  {
+    "extension": "com.au",
+    "name": "com.au - Australia"
+  },
+  {
+    "extension": "com.br",
+    "name": "com.br - Brazil"
+  },
+  {
+    "extension": "com.cn",
+    "name": "com.cn - People's Republic of China"
+  },
+  {
+    "extension": "com.mx",
+    "name": "com.mx - Mexico"
+  },
+  {
+    "extension": "com.sg",
+    "name": "com.sg - Singapore"
+  },
+  {
+    "extension": "com.tr",
+    "name": "com.tr - Turkey"
+  },
+  {
+    "extension": "comcast",
+    "name": "Comcast"
+  },
+  {
+    "extension": "commbank",
+    "name": "Commbank"
+  },
+  {
+    "extension": "community",
+    "name": "Community"
+  },
+  {
+    "extension": "company",
+    "name": "Company"
+  },
+  {
+    "extension": "compare",
+    "name": "Compare"
+  },
+  {
+    "extension": "computer",
+    "name": "Computer"
+  },
+  {
+    "extension": "comsec",
+    "name": "Comsec"
+  },
+  {
+    "extension": "condos",
+    "name": "Condos"
+  },
+  {
+    "extension": "connectors",
+    "name": "Connectors"
+  },
+  {
+    "extension": "construction",
+    "name": "Construction"
+  },
+  {
+    "extension": "consulting",
+    "name": "Consulting"
+  },
+  {
+    "extension": "contact",
+    "name": "Contact"
+  },
+  {
+    "extension": "contractors",
+    "name": "Contractors"
+  },
+  {
+    "extension": "cooking",
+    "name": "Cooking"
+  },
+  {
+    "extension": "cookingchannel",
+    "name": "Cookingchannel"
+  },
+  {
+    "extension": "cool",
+    "name": "Cool"
+  },
+  {
+    "extension": "coop",
+    "name": "coop - Co-operative"
+  },
+  {
+    "extension": "corp",
+    "name": "Corp"
+  },
+  {
+    "extension": "corsica",
+    "name": "Corsica"
+  },
+  {
+    "extension": "country",
+    "name": "Country"
+  },
+  {
+    "extension": "coupon",
+    "name": "Coupon"
+  },
+  {
+    "extension": "coupons",
+    "name": "Coupons"
+  },
+  {
+    "extension": "courses",
+    "name": "Courses"
+  },
+  {
+    "extension": "cpa",
+    "name": "Cpa"
+  },
+  {
+    "extension": "cr",
+    "name": "cr - Costa Rica"
+  },
+  {
+    "extension": "credit",
+    "name": "Credit"
+  },
+  {
+    "extension": "creditcard",
+    "name": "Creditcard"
+  },
+  {
+    "extension": "creditunion",
+    "name": "Creditunion"
+  },
+  {
+    "extension": "cri.nz",
+    "name": "cri.nz - New Zealand"
+  },
+  {
+    "extension": "cricket",
+    "name": "Cricket"
+  },
+  {
+    "extension": "crown",
+    "name": "Crown"
+  },
+  {
+    "extension": "crs",
+    "name": "Crs"
+  },
+  {
+    "extension": "cruise",
+    "name": "Cruise"
+  },
+  {
+    "extension": "cruises",
+    "name": "Cruises"
+  },
+  {
+    "extension": "cs",
+    "name": "cs - Czechoslovakia"
+  },
+  {
+    "extension": "csc",
+    "name": "Csc"
+  },
+  {
+    "extension": "cu",
+    "name": "cu - Cuba"
+  },
+  {
+    "extension": "cuisinella",
+    "name": "Cuisinella"
+  },
+  {
+    "extension": "cv",
+    "name": "cv - Cape Verde"
+  },
+  {
+    "extension": "cx",
+    "name": "cx - Christmas Island"
+  },
+  {
+    "extension": "cy",
+    "name": "cy - Cyprus"
+  },
+  {
+    "extension": "cymru",
+    "name": "Cymru"
+  },
+  {
+    "extension": "cyou",
+    "name": "Cyou"
+  },
+  {
+    "extension": "cz",
+    "name": "cz - Czech Republic"
+  },
+  {
+    "extension": "dabur",
+    "name": "Dabur"
+  },
+  {
+    "extension": "dad",
+    "name": "Dad"
+  },
+  {
+    "extension": "dance",
+    "name": "Dance"
+  },
+  {
+    "extension": "data",
+    "name": "Data"
+  },
+  {
+    "extension": "date",
+    "name": "Date"
+  },
+  {
+    "extension": "dating",
+    "name": "Dating"
+  },
+  {
+    "extension": "datsun",
+    "name": "Datsun"
+  },
+  {
+    "extension": "day",
+    "name": "Day"
+  },
+  {
+    "extension": "dclk",
+    "name": "Dclk"
+  },
+  {
+    "extension": "dd",
+    "name": "dd - East Germany"
+  },
+  {
+    "extension": "dds",
+    "name": "Dds"
+  },
+  {
+    "extension": "de",
+    "name": "de - Germany"
+  },
+  {
+    "extension": "deal",
+    "name": "Deal"
+  },
+  {
+    "extension": "dealer",
+    "name": "Dealer"
+  },
+  {
+    "extension": "deals",
+    "name": "Deals"
+  },
+  {
+    "extension": "degree",
+    "name": "Degree"
+  },
+  {
+    "extension": "delivery",
+    "name": "Delivery"
+  },
+  {
+    "extension": "dell",
+    "name": "Dell"
+  },
+  {
+    "extension": "delmonte",
+    "name": "Delmonte"
+  },
+  {
+    "extension": "deloitte",
+    "name": "Deloitte"
+  },
+  {
+    "extension": "delta",
+    "name": "Delta"
+  },
+  {
+    "extension": "democrat",
+    "name": "Democrat"
+  },
+  {
+    "extension": "dental",
+    "name": "Dental"
+  },
+  {
+    "extension": "dentist",
+    "name": "Dentist"
+  },
+  {
+    "extension": "desi",
+    "name": "Desi"
+  },
+  {
+    "extension": "design",
+    "name": "Design"
+  },
+  {
+    "extension": "deutschepost",
+    "name": "Deutschepost"
+  },
+  {
+    "extension": "dev",
+    "name": "Dev"
+  },
+  {
+    "extension": "dhl",
+    "name": "Dhl"
+  },
+  {
+    "extension": "diamonds",
+    "name": "Diamonds"
+  },
+  {
+    "extension": "diet",
+    "name": "Diet"
+  },
+  {
+    "extension": "digikey",
+    "name": "Digikey"
+  },
+  {
+    "extension": "digital",
+    "name": "Digital"
+  },
+  {
+    "extension": "direct",
+    "name": "Direct"
+  },
+  {
+    "extension": "directory",
+    "name": "Directory"
+  },
+  {
+    "extension": "discount",
+    "name": "Discount"
+  },
+  {
+    "extension": "discover",
+    "name": "Discover"
+  },
+  {
+    "extension": "dish",
+    "name": "Dish"
+  },
+  {
+    "extension": "diy",
+    "name": "Diy"
+  },
+  {
+    "extension": "dj",
+    "name": "dj - Djibouti"
+  },
+  {
+    "extension": "dk",
+    "name": "dk - Denmark"
+  },
+  {
+    "extension": "dm",
+    "name": "dm - Dominica"
+  },
+  {
+    "extension": "dnb",
+    "name": "Dnb"
+  },
+  {
+    "extension": "dnp",
+    "name": "Dnp"
+  },
+  {
+    "extension": "do",
+    "name": "do - Dominican Republic"
+  },
+  {
+    "extension": "docomo",
+    "name": "Docomo"
+  },
+  {
+    "extension": "docs",
+    "name": "Docs"
+  },
+  {
+    "extension": "doctor",
+    "name": "Doctor"
+  },
+  {
+    "extension": "dodge",
+    "name": "Dodge"
+  },
+  {
+    "extension": "dog",
+    "name": "Dog"
+  },
+  {
+    "extension": "doha",
+    "name": "Doha"
+  },
+  {
+    "extension": "domains",
+    "name": "Domains"
+  },
+  {
+    "extension": "doosan",
+    "name": "Doosan"
+  },
+  {
+    "extension": "dot",
+    "name": "Dot"
+  },
+  {
+    "extension": "dotafrica",
+    "name": "Dotafrica"
+  },
+  {
+    "extension": "download",
+    "name": "Download"
+  },
+  {
+    "extension": "drive",
+    "name": "Drive"
+  },
+  {
+    "extension": "dstv",
+    "name": "Dstv"
+  },
+  {
+    "extension": "dtv",
+    "name": "Dtv"
+  },
+  {
+    "extension": "dubai",
+    "name": "Dubai"
+  },
+  {
+    "extension": "duck",
+    "name": "Duck"
+  },
+  {
+    "extension": "dunlop",
+    "name": "Dunlop"
+  },
+  {
+    "extension": "duns",
+    "name": "Duns"
+  },
+  {
+    "extension": "dupont",
+    "name": "Dupont"
+  },
+  {
+    "extension": "durban",
+    "name": "Durban"
+  },
+  {
+    "extension": "dvag",
+    "name": "Dvag"
+  },
+  {
+    "extension": "dvr",
+    "name": "Dvr"
+  },
+  {
+    "extension": "dwg",
+    "name": "Dwg"
+  },
+  {
+    "extension": "dz",
+    "name": "dz - Algeria"
+  },
+  {
+    "extension": "earth",
+    "name": "Earth"
+  },
+  {
+    "extension": "eat",
+    "name": "Eat"
+  },
+  {
+    "extension": "ec",
+    "name": "ec - Ecuador"
+  },
+  {
+    "extension": "eco",
+    "name": "Eco"
+  },
+  {
+    "extension": "ecom",
+    "name": "Ecom"
+  },
+  {
+    "extension": "ed.jp",
+    "name": "ed.jp - Japan"
+  },
+  {
+    "extension": "edeka",
+    "name": "Edeka"
+  },
+  {
+    "extension": "edu",
+    "name": "edu - Educational"
+  },
+  {
+    "extension": "edu.au",
+    "name": "edu.au - Australia"
+  },
+  {
+    "extension": "edu.sg",
+    "name": "edu.sg - Singapore"
+  },
+  {
+    "extension": "education",
+    "name": "Education"
+  },
+  {
+    "extension": "ee",
+    "name": "ee - Estonia"
+  },
+  {
+    "extension": "eg",
+    "name": "eg - Egypt"
+  },
+  {
+    "extension": "eh",
+    "name": "eh - Western Sahara"
+  },
+  {
+    "extension": "email",
+    "name": "Email"
+  },
+  {
+    "extension": "emerck",
+    "name": "Emerck"
+  },
+  {
+    "extension": "emerson",
+    "name": "Emerson"
+  },
+  {
+    "extension": "energy",
+    "name": "Energy"
+  },
+  {
+    "extension": "engineer",
+    "name": "Engineer"
+  },
+  {
+    "extension": "engineering",
+    "name": "Engineering"
+  },
+  {
+    "extension": "enterprises",
+    "name": "Enterprises"
+  },
+  {
+    "extension": "epost",
+    "name": "Epost"
+  },
+  {
+    "extension": "epson",
+    "name": "Epson"
+  },
+  {
+    "extension": "equipment",
+    "name": "Equipment"
+  },
+  {
+    "extension": "ericsson",
+    "name": "Ericsson"
+  },
+  {
+    "extension": "erni",
+    "name": "Erni"
+  },
+  {
+    "extension": "es",
+    "name": "es - Spain"
+  },
+  {
+    "extension": "esq",
+    "name": "Esq"
+  },
+  {
+    "extension": "est",
+    "name": "Est"
+  },
+  {
+    "extension": "estate",
+    "name": "Estate"
+  },
+  {
+    "extension": "esurance",
+    "name": "Esurance"
+  },
+  {
+    "extension": "et",
+    "name": "et - Ethiopia"
+  },
+  {
+    "extension": "etisalat",
+    "name": "Etisalat"
+  },
+  {
+    "extension": "eu",
+    "name": "eu - European Union"
+  },
+  {
+    "extension": "eurovision",
+    "name": "Eurovision"
+  },
+  {
+    "extension": "eus",
+    "name": "Eus"
+  },
+  {
+    "extension": "events",
+    "name": "Events"
+  },
+  {
+    "extension": "everbank",
+    "name": "Everbank"
+  },
+  {
+    "extension": "example",
+    "name": "example - Examples"
+  },
+  {
+    "extension": "exchange",
+    "name": "Exchange"
+  },
+  {
+    "extension": "expert",
+    "name": "Expert"
+  },
+  {
+    "extension": "exposed",
+    "name": "Exposed"
+  },
+  {
+    "extension": "express",
+    "name": "Express"
+  },
+  {
+    "extension": "extraspace",
+    "name": "Extraspace"
+  },
+  {
+    "extension": "fage",
+    "name": "Fage"
+  },
+  {
+    "extension": "fail",
+    "name": "Fail"
+  },
+  {
+    "extension": "fairwinds",
+    "name": "Fairwinds"
+  },
+  {
+    "extension": "faith",
+    "name": "Faith"
+  },
+  {
+    "extension": "family",
+    "name": "Family"
+  },
+  {
+    "extension": "fan",
+    "name": "Fan"
+  },
+  {
+    "extension": "fans",
+    "name": "Fans"
+  },
+  {
+    "extension": "farm",
+    "name": "Farm"
+  },
+  {
+    "extension": "farmers",
+    "name": "Farmers"
+  },
+  {
+    "extension": "fashion",
+    "name": "Fashion"
+  },
+  {
+    "extension": "fast",
+    "name": "Fast"
+  },
+  {
+    "extension": "fedex",
+    "name": "Fedex"
+  },
+  {
+    "extension": "feedback",
+    "name": "Feedback"
+  },
+  {
+    "extension": "ferrari",
+    "name": "Ferrari"
+  },
+  {
+    "extension": "ferrero",
+    "name": "Ferrero"
+  },
+  {
+    "extension": "fi",
+    "name": "fi - Finland"
+  },
+  {
+    "extension": "fiat",
+    "name": "Fiat"
+  },
+  {
+    "extension": "fidelity",
+    "name": "Fidelity"
+  },
+  {
+    "extension": "fido",
+    "name": "Fido"
+  },
+  {
+    "extension": "film",
+    "name": "Film"
+  },
+  {
+    "extension": "final",
+    "name": "Final"
+  },
+  {
+    "extension": "finance",
+    "name": "Finance"
+  },
+  {
+    "extension": "financial",
+    "name": "Financial"
+  },
+  {
+    "extension": "financialaid",
+    "name": "Financialaid"
+  },
+  {
+    "extension": "finish",
+    "name": "Finish"
+  },
+  {
+    "extension": "fire",
+    "name": "Fire"
+  },
+  {
+    "extension": "firestone",
+    "name": "Firestone"
+  },
+  {
+    "extension": "firmdale",
+    "name": "Firmdale"
+  },
+  {
+    "extension": "fish",
+    "name": "Fish"
+  },
+  {
+    "extension": "fishing",
+    "name": "Fishing"
+  },
+  {
+    "extension": "fit",
+    "name": "Fit"
+  },
+  {
+    "extension": "fitness",
+    "name": "Fitness"
+  },
+  {
+    "extension": "fj",
+    "name": "fj - Fiji"
+  },
+  {
+    "extension": "fk",
+    "name": "fk - Falkland Islands"
+  },
+  {
+    "extension": "flickr",
+    "name": "Flickr"
+  },
+  {
+    "extension": "flights",
+    "name": "Flights"
+  },
+  {
+    "extension": "flir",
+    "name": "Flir"
+  },
+  {
+    "extension": "florist",
+    "name": "Florist"
+  },
+  {
+    "extension": "flowers",
+    "name": "Flowers"
+  },
+  {
+    "extension": "fls",
+    "name": "Fls"
+  },
+  {
+    "extension": "flsmidth",
+    "name": "Flsmidth"
+  },
+  {
+    "extension": "fly",
+    "name": "Fly"
+  },
+  {
+    "extension": "fm",
+    "name": "fm - Federated States of Micronesia"
+  },
+  {
+    "extension": "fo",
+    "name": "fo - Faroe Islands"
+  },
+  {
+    "extension": "foo",
+    "name": "Foo"
+  },
+  {
+    "extension": "food",
+    "name": "Food"
+  },
+  {
+    "extension": "foodnetwork",
+    "name": "Foodnetwork"
+  },
+  {
+    "extension": "football",
+    "name": "Football"
+  },
+  {
+    "extension": "ford",
+    "name": "Ford"
+  },
+  {
+    "extension": "forex",
+    "name": "Forex"
+  },
+  {
+    "extension": "forsale",
+    "name": "Forsale"
+  },
+  {
+    "extension": "forum",
+    "name": "Forum"
+  },
+  {
+    "extension": "foundation",
+    "name": "Foundation"
+  },
+  {
+    "extension": "fox",
+    "name": "Fox"
+  },
+  {
+    "extension": "fr",
+    "name": "fr - France"
+  },
+  {
+    "extension": "free",
+    "name": "Free"
+  },
+  {
+    "extension": "fresenius",
+    "name": "Fresenius"
+  },
+  {
+    "extension": "frl",
+    "name": "Frl"
+  },
+  {
+    "extension": "frogans",
+    "name": "Frogans"
+  },
+  {
+    "extension": "frontdoor",
+    "name": "Frontdoor"
+  },
+  {
+    "extension": "frontier",
+    "name": "Frontier"
+  },
+  {
+    "extension": "ftr",
+    "name": "Ftr"
+  },
+  {
+    "extension": "fujitsu",
+    "name": "Fujitsu"
+  },
+  {
+    "extension": "fujixerox",
+    "name": "Fujixerox"
+  },
+  {
+    "extension": "fun",
+    "name": "Fun"
+  },
+  {
+    "extension": "fund",
+    "name": "Fund"
+  },
+  {
+    "extension": "furniture",
+    "name": "Furniture"
+  },
+  {
+    "extension": "futbol",
+    "name": "Futbol"
+  },
+  {
+    "extension": "fyi",
+    "name": "Fyi"
+  },
+  {
+    "extension": "ga",
+    "name": "ga - Gabon"
+  },
+  {
+    "extension": "gal",
+    "name": "Gal"
+  },
+  {
+    "extension": "gallery",
+    "name": "Gallery"
+  },
+  {
+    "extension": "gallo",
+    "name": "Gallo"
+  },
+  {
+    "extension": "gallup",
+    "name": "Gallup"
+  },
+  {
+    "extension": "game",
+    "name": "Game"
+  },
+  {
+    "extension": "games",
+    "name": "Games"
+  },
+  {
+    "extension": "gap",
+    "name": "Gap"
+  },
+  {
+    "extension": "garden",
+    "name": "Garden"
+  },
+  {
+    "extension": "garnier",
+    "name": "Garnier"
+  },
+  {
+    "extension": "gay",
+    "name": "Gay"
+  },
+  {
+    "extension": "gb",
+    "name": "gb - Great Britain"
+  },
+  {
+    "extension": "gbiz",
+    "name": "Gbiz"
+  },
+  {
+    "extension": "gcc",
+    "name": "Gcc"
+  },
+  {
+    "extension": "gd",
+    "name": "gd - Grenada"
+  },
+  {
+    "extension": "gdn",
+    "name": "Gdn"
+  },
+  {
+    "extension": "ge",
+    "name": "ge - Georgia"
+  },
+  {
+    "extension": "gea",
+    "name": "Gea"
+  },
+  {
+    "extension": "gecompany",
+    "name": "Gecompany"
+  },
+  {
+    "extension": "ged",
+    "name": "Ged"
+  },
+  {
+    "extension": "gen.nz",
+    "name": "gen.nz - New Zealand"
+  },
+  {
+    "extension": "gent",
+    "name": "Gent"
+  },
+  {
+    "extension": "genting",
+    "name": "Genting"
+  },
+  {
+    "extension": "geo",
+    "name": "geo - Geographical Locations"
+  },
+  {
+    "extension": "george",
+    "name": "George"
+  },
+  {
+    "extension": "gf",
+    "name": "gf - French Guiana"
+  },
+  {
+    "extension": "gg",
+    "name": "gg - Guernsey"
+  },
+  {
+    "extension": "ggee",
+    "name": "Ggee"
+  },
+  {
+    "extension": "gh",
+    "name": "gh - Ghana"
+  },
+  {
+    "extension": "gi",
+    "name": "gi - Gibraltar"
+  },
+  {
+    "extension": "gift",
+    "name": "Gift"
+  },
+  {
+    "extension": "gifts",
+    "name": "Gifts"
+  },
+  {
+    "extension": "gives",
+    "name": "Gives"
+  },
+  {
+    "extension": "giving",
+    "name": "Giving"
+  },
+  {
+    "extension": "gl",
+    "name": "gl - Greenland"
+  },
+  {
+    "extension": "glade",
+    "name": "Glade"
+  },
+  {
+    "extension": "glass",
+    "name": "Glass"
+  },
+  {
+    "extension": "gle",
+    "name": "Gle"
+  },
+  {
+    "extension": "glean",
+    "name": "Glean"
+  },
+  {
+    "extension": "global",
+    "name": "Global"
+  },
+  {
+    "extension": "globalx",
+    "name": "Globalx"
+  },
+  {
+    "extension": "globo",
+    "name": "Globo"
+  },
+  {
+    "extension": "gm",
+    "name": "gm - The Gambia"
+  },
+  {
+    "extension": "gmail",
+    "name": "Gmail"
+  },
+  {
+    "extension": "gmbh",
+    "name": "Gmbh"
+  },
+  {
+    "extension": "gmc",
+    "name": "Gmc"
+  },
+  {
+    "extension": "gmo",
+    "name": "Gmo"
+  },
+  {
+    "extension": "gmx",
+    "name": "Gmx"
+  },
+  {
+    "extension": "gn",
+    "name": "gn - Guinea"
+  },
+  {
+    "extension": "go.jp",
+    "name": "go.jp - Japan"
+  },
+  {
+    "extension": "go.th",
+    "name": "go.th - Thailand"
+  },
+  {
+    "extension": "godaddy",
+    "name": "Godaddy"
+  },
+  {
+    "extension": "gold",
+    "name": "Gold"
+  },
+  {
+    "extension": "goldpoint",
+    "name": "Goldpoint"
+  },
+  {
+    "extension": "golf",
+    "name": "Golf"
+  },
+  {
+    "extension": "goo",
+    "name": "Goo"
+  },
+  {
+    "extension": "goodhands",
+    "name": "Goodhands"
+  },
+  {
+    "extension": "goodyear",
+    "name": "Goodyear"
+  },
+  {
+    "extension": "goog",
+    "name": "Goog"
+  },
+  {
+    "extension": "google",
+    "name": "Google"
+  },
+  {
+    "extension": "gop",
+    "name": "Gop"
+  },
+  {
+    "extension": "got",
+    "name": "Got"
+  },
+  {
+    "extension": "gotv",
+    "name": "Gotv"
+  },
+  {
+    "extension": "gov",
+    "name": "gov - US Government"
+  },
+  {
+    "extension": "gov.au",
+    "name": "gov.au - Australia"
+  },
+  {
+    "extension": "gov.cn",
+    "name": "gov.cn - People's Republic of China"
+  },
+  {
+    "extension": "gov.sg",
+    "name": "gov.sg - Singapore"
+  },
+  {
+    "extension": "gov.uk",
+    "name": "gov.uk - United Kingdom"
+  },
+  {
+    "extension": "govt.nz",
+    "name": "govt.nz - New Zealand"
+  },
+  {
+    "extension": "gp",
+    "name": "gp - Guadeloupe"
+  },
+  {
+    "extension": "gq",
+    "name": "gq - Equatorial Guinea"
+  },
+  {
+    "extension": "gr",
+    "name": "gr - Greece"
+  },
+  {
+    "extension": "gr.jp",
+    "name": "gr.jp - Japan"
+  },
+  {
+    "extension": "grainger",
+    "name": "Grainger"
+  },
+  {
+    "extension": "graphics",
+    "name": "Graphics"
+  },
+  {
+    "extension": "gratis",
+    "name": "Gratis"
+  },
+  {
+    "extension": "gree",
+    "name": "Gree"
+  },
+  {
+    "extension": "green",
+    "name": "Green"
+  },
+  {
+    "extension": "gripe",
+    "name": "Gripe"
+  },
+  {
+    "extension": "grocery",
+    "name": "Grocery"
+  },
+  {
+    "extension": "group",
+    "name": "Group"
+  },
+  {
+    "extension": "gs",
+    "name": "gs - South Georgia and the South Sandwich Islands"
+  },
+  {
+    "extension": "gt",
+    "name": "gt - Guatemala"
+  },
+  {
+    "extension": "gu",
+    "name": "gu - Guam"
+  },
+  {
+    "extension": "guardian",
+    "name": "Guardian"
+  },
+  {
+    "extension": "guardianlife",
+    "name": "Guardianlife"
+  },
+  {
+    "extension": "guardianmedia",
+    "name": "Guardianmedia"
+  },
+  {
+    "extension": "gucci",
+    "name": "Gucci"
+  },
+  {
+    "extension": "guge",
+    "name": "Guge"
+  },
+  {
+    "extension": "guide",
+    "name": "Guide"
+  },
+  {
+    "extension": "guitars",
+    "name": "Guitars"
+  },
+  {
+    "extension": "guru",
+    "name": "Guru"
+  },
+  {
+    "extension": "gw",
+    "name": "gw - Guinea-Bissau"
+  },
+  {
+    "extension": "gy",
+    "name": "gy - Guyana"
+  },
+  {
+    "extension": "hair",
+    "name": "Hair"
+  },
+  {
+    "extension": "halal",
+    "name": "Halal"
+  },
+  {
+    "extension": "hamburg",
+    "name": "Hamburg"
+  },
+  {
+    "extension": "hangout",
+    "name": "Hangout"
+  },
+  {
+    "extension": "haus",
+    "name": "Haus"
+  },
+  {
+    "extension": "hbo",
+    "name": "Hbo"
+  },
+  {
+    "extension": "hdfc",
+    "name": "Hdfc"
+  },
+  {
+    "extension": "hdfcbank",
+    "name": "Hdfcbank"
+  },
+  {
+    "extension": "health",
+    "name": "Health"
+  },
+  {
+    "extension": "healthcare",
+    "name": "Healthcare"
+  },
+  {
+    "extension": "heart",
+    "name": "Heart"
+  },
+  {
+    "extension": "heinz",
+    "name": "Heinz"
+  },
+  {
+    "extension": "help",
+    "name": "Help"
+  },
+  {
+    "extension": "helsinki",
+    "name": "Helsinki"
+  },
+  {
+    "extension": "here",
+    "name": "Here"
+  },
+  {
+    "extension": "hermes",
+    "name": "Hermes"
+  },
+  {
+    "extension": "hgtv",
+    "name": "Hgtv"
+  },
+  {
+    "extension": "hilton",
+    "name": "Hilton"
+  },
+  {
+    "extension": "hiphop",
+    "name": "Hiphop"
+  },
+  {
+    "extension": "hisamitsu",
+    "name": "Hisamitsu"
+  },
+  {
+    "extension": "hitachi",
+    "name": "Hitachi"
+  },
+  {
+    "extension": "hiv",
+    "name": "Hiv"
+  },
+  {
+    "extension": "hk",
+    "name": "hk - Hong Kong"
+  },
+  {
+    "extension": "hkt",
+    "name": "Hkt"
+  },
+  {
+    "extension": "hm",
+    "name": "hm - Heard Island and McDonald Islands"
+  },
+  {
+    "extension": "hn",
+    "name": "hn - Honduras"
+  },
+  {
+    "extension": "hockey",
+    "name": "Hockey"
+  },
+  {
+    "extension": "holdings",
+    "name": "Holdings"
+  },
+  {
+    "extension": "holiday",
+    "name": "Holiday"
+  },
+  {
+    "extension": "home",
+    "name": "Home"
+  },
+  {
+    "extension": "homedepot",
+    "name": "Homedepot"
+  },
+  {
+    "extension": "homegoods",
+    "name": "Homegoods"
+  },
+  {
+    "extension": "homes",
+    "name": "Homes"
+  },
+  {
+    "extension": "homesense",
+    "name": "Homesense"
+  },
+  {
+    "extension": "honda",
+    "name": "Honda"
+  },
+  {
+    "extension": "honeywell",
+    "name": "Honeywell"
+  },
+  {
+    "extension": "horse",
+    "name": "Horse"
+  },
+  {
+    "extension": "hospital",
+    "name": "Hospital"
+  },
+  {
+    "extension": "host",
+    "name": "Host"
+  },
+  {
+    "extension": "hosting",
+    "name": "Hosting"
+  },
+  {
+    "extension": "hot",
+    "name": "Hot"
+  },
+  {
+    "extension": "hoteis",
+    "name": "Hoteis"
+  },
+  {
+    "extension": "hotel",
+    "name": "Hotel"
+  },
+  {
+    "extension": "hoteles",
+    "name": "Hoteles"
+  },
+  {
+    "extension": "hotels",
+    "name": "Hotels"
+  },
+  {
+    "extension": "hotmail",
+    "name": "Hotmail"
+  },
+  {
+    "extension": "house",
+    "name": "House"
+  },
+  {
+    "extension": "how",
+    "name": "How"
+  },
+  {
+    "extension": "hr",
+    "name": "hr - Croatia"
+  },
+  {
+    "extension": "hsbc",
+    "name": "Hsbc"
+  },
+  {
+    "extension": "ht",
+    "name": "ht - Haiti"
+  },
+  {
+    "extension": "htc",
+    "name": "Htc"
+  },
+  {
+    "extension": "hu",
+    "name": "hu - Hungary"
+  },
+  {
+    "extension": "hughes",
+    "name": "Hughes"
+  },
+  {
+    "extension": "hyatt",
+    "name": "Hyatt"
+  },
+  {
+    "extension": "hyundai",
+    "name": "Hyundai"
+  },
+  {
+    "extension": "ibm",
+    "name": "Ibm"
+  },
+  {
+    "extension": "icbc",
+    "name": "Icbc"
+  },
+  {
+    "extension": "ice",
+    "name": "Ice"
+  },
+  {
+    "extension": "icu",
+    "name": "Icu"
+  },
+  {
+    "extension": "id",
+    "name": "id - Indonesia"
+  },
+  {
+    "extension": "id.au",
+    "name": "id.au - Australia"
+  },
+  {
+    "extension": "idn",
+    "name": "Idn"
+  },
+  {
+    "extension": "ie",
+    "name": "ie - Ireland"
+  },
+  {
+    "extension": "ieee",
+    "name": "Ieee"
+  },
+  {
+    "extension": "ifm",
+    "name": "Ifm"
+  },
+  {
+    "extension": "iinet",
+    "name": "Iinet"
+  },
+  {
+    "extension": "ikano",
+    "name": "Ikano"
+  },
+  {
+    "extension": "il",
+    "name": "il - Israel"
+  },
+  {
+    "extension": "im",
+    "name": "im - Isle of Man"
+  },
+  {
+    "extension": "imamat",
+    "name": "Imamat"
+  },
+  {
+    "extension": "imdb",
+    "name": "Imdb"
+  },
+  {
+    "extension": "immo",
+    "name": "Immo"
+  },
+  {
+    "extension": "immobilien",
+    "name": "Immobilien"
+  },
+  {
+    "extension": "in",
+    "name": "in - India"
+  },
+  {
+    "extension": "in.th",
+    "name": "in.th - Thailand"
+  },
+  {
+    "extension": "inc",
+    "name": "Inc"
+  },
+  {
+    "extension": "indians",
+    "name": "Indians"
+  },
+  {
+    "extension": "industries",
+    "name": "Industries"
+  },
+  {
+    "extension": "infiniti",
+    "name": "Infiniti"
+  },
+  {
+    "extension": "info",
+    "name": "info - Informational"
+  },
+  {
+    "extension": "infosys",
+    "name": "Infosys"
+  },
+  {
+    "extension": "infy",
+    "name": "Infy"
+  },
+  {
+    "extension": "ing",
+    "name": "Ing"
+  },
+  {
+    "extension": "ink",
+    "name": "Ink"
+  },
+  {
+    "extension": "institute",
+    "name": "Institute"
+  },
+  {
+    "extension": "insurance",
+    "name": "Insurance"
+  },
+  {
+    "extension": "insure",
+    "name": "Insure"
+  },
+  {
+    "extension": "int",
+    "name": "int - International Organizations"
+  },
+  {
+    "extension": "intel",
+    "name": "Intel"
+  },
+  {
+    "extension": "international",
+    "name": "International"
+  },
+  {
+    "extension": "intuit",
+    "name": "Intuit"
+  },
+  {
+    "extension": "invalid",
+    "name": "invalid - Known Invalid"
+  },
+  {
+    "extension": "investments",
+    "name": "Investments"
+  },
+  {
+    "extension": "io",
+    "name": "io - British Indian Ocean Territory"
+  },
+  {
+    "extension": "ipiranga",
+    "name": "Ipiranga"
+  },
+  {
+    "extension": "iq",
+    "name": "iq - Iraq"
+  },
+  {
+    "extension": "ir",
+    "name": "ir - Iran"
+  },
+  {
+    "extension": "ira",
+    "name": "Ira"
+  },
+  {
+    "extension": "irish",
+    "name": "Irish"
+  },
+  {
+    "extension": "is",
+    "name": "is - Iceland"
+  },
+  {
+    "extension": "iselect",
+    "name": "Iselect"
+  },
+  {
+    "extension": "islam",
+    "name": "Islam"
+  },
+  {
+    "extension": "ismaili",
+    "name": "Ismaili"
+  },
+  {
+    "extension": "ist",
+    "name": "Ist"
+  },
+  {
+    "extension": "istanbul",
+    "name": "Istanbul"
+  },
+  {
+    "extension": "it",
+    "name": "it - Italy"
+  },
+  {
+    "extension": "itau",
+    "name": "Itau"
+  },
+  {
+    "extension": "itv",
+    "name": "Itv"
+  },
+  {
+    "extension": "iveco",
+    "name": "Iveco"
+  },
+  {
+    "extension": "iwc",
+    "name": "Iwc"
+  },
+  {
+    "extension": "iwi.nz",
+    "name": "iwi.nz - New Zealand"
+  },
+  {
+    "extension": "jaguar",
+    "name": "Jaguar"
+  },
+  {
+    "extension": "java",
+    "name": "Java"
+  },
+  {
+    "extension": "jcb",
+    "name": "Jcb"
+  },
+  {
+    "extension": "jcp",
+    "name": "Jcp"
+  },
+  {
+    "extension": "je",
+    "name": "je - Jersey"
+  },
+  {
+    "extension": "jeep",
+    "name": "Jeep"
+  },
+  {
+    "extension": "jetzt",
+    "name": "Jetzt"
+  },
+  {
+    "extension": "jewelry",
+    "name": "Jewelry"
+  },
+  {
+    "extension": "jio",
+    "name": "Jio"
+  },
+  {
+    "extension": "jlc",
+    "name": "Jlc"
+  },
+  {
+    "extension": "jll",
+    "name": "Jll"
+  },
+  {
+    "extension": "jm",
+    "name": "jm - Jamaica"
+  },
+  {
+    "extension": "jmp",
+    "name": "Jmp"
+  },
+  {
+    "extension": "jnj",
+    "name": "Jnj"
+  },
+  {
+    "extension": "jo",
+    "name": "jo - Jordan"
+  },
+  {
+    "extension": "jobs",
+    "name": "jobs - Employment"
+  },
+  {
+    "extension": "joburg",
+    "name": "Joburg"
+  },
+  {
+    "extension": "jot",
+    "name": "Jot"
+  },
+  {
+    "extension": "joy",
+    "name": "Joy"
+  },
+  {
+    "extension": "jp",
+    "name": "jp - Japan"
+  },
+  {
+    "extension": "jpmorgan",
+    "name": "Jpmorgan"
+  },
+  {
+    "extension": "jpmorganchase",
+    "name": "Jpmorganchase"
+  },
+  {
+    "extension": "jprs",
+    "name": "Jprs"
+  },
+  {
+    "extension": "juegos",
+    "name": "Juegos"
+  },
+  {
+    "extension": "juniper",
+    "name": "Juniper"
+  },
+  {
+    "extension": "justforu",
+    "name": "Justforu"
+  },
+  {
+    "extension": "kaufen",
+    "name": "Kaufen"
+  },
+  {
+    "extension": "kddi",
+    "name": "Kddi"
+  },
+  {
+    "extension": "ke",
+    "name": "ke - Kenya"
+  },
+  {
+    "extension": "kerastase",
+    "name": "Kerastase"
+  },
+  {
+    "extension": "kerryhotels",
+    "name": "Kerryhotels"
+  },
+  {
+    "extension": "kerrylogisitics",
+    "name": "Kerrylogisitics"
+  },
+  {
+    "extension": "kerryproperties",
+    "name": "Kerryproperties"
+  },
+  {
+    "extension": "ketchup",
+    "name": "Ketchup"
+  },
+  {
+    "extension": "kfh",
+    "name": "Kfh"
+  },
+  {
+    "extension": "kg",
+    "name": "kg - Kyrgyzstan"
+  },
+  {
+    "extension": "kh",
+    "name": "kh - Cambodia"
+  },
+  {
+    "extension": "ki",
+    "name": "ki - Kiribati"
+  },
+  {
+    "extension": "kia",
+    "name": "Kia"
+  },
+  {
+    "extension": "kid",
+    "name": "Kid"
+  },
+  {
+    "extension": "kids",
+    "name": "Kids"
+  },
+  {
+    "extension": "kiehls",
+    "name": "Kiehls"
+  },
+  {
+    "extension": "kim",
+    "name": "Kim"
+  },
+  {
+    "extension": "kinder",
+    "name": "Kinder"
+  },
+  {
+    "extension": "kindle",
+    "name": "Kindle"
+  },
+  {
+    "extension": "kitchen",
+    "name": "Kitchen"
+  },
+  {
+    "extension": "kiwi",
+    "name": "Kiwi"
+  },
+  {
+    "extension": "km",
+    "name": "km - Comoros"
+  },
+  {
+    "extension": "kn",
+    "name": "kn - Saint Kitts and Nevis"
+  },
+  {
+    "extension": "koeln",
+    "name": "Koeln"
+  },
+  {
+    "extension": "komatsu",
+    "name": "Komatsu"
+  },
+  {
+    "extension": "konami",
+    "name": "Konami"
+  },
+  {
+    "extension": "kone",
+    "name": "Kone"
+  },
+  {
+    "extension": "kosher",
+    "name": "Kosher"
+  },
+  {
+    "extension": "kp",
+    "name": "kp - Democratic People's Republic of Korea"
+  },
+  {
+    "extension": "kpmg",
+    "name": "Kpmg"
+  },
+  {
+    "extension": "kpn",
+    "name": "Kpn"
+  },
+  {
+    "extension": "kr",
+    "name": "kr - Republic of Korea"
+  },
+  {
+    "extension": "krd",
+    "name": "Krd"
+  },
+  {
+    "extension": "kred",
+    "name": "Kred"
+  },
+  {
+    "extension": "ksb",
+    "name": "Ksb"
+  },
+  {
+    "extension": "kuokgroup",
+    "name": "Kuokgroup"
+  },
+  {
+    "extension": "kw",
+    "name": "kw - Kuwait"
+  },
+  {
+    "extension": "ky",
+    "name": "ky - Cayman Islands"
+  },
+  {
+    "extension": "kyknet",
+    "name": "Kyknet"
+  },
+  {
+    "extension": "kyoto",
+    "name": "Kyoto"
+  },
+  {
+    "extension": "kz",
+    "name": "kz - Kazakhstan"
+  },
+  {
+    "extension": "la",
+    "name": "la - Laos"
+  },
+  {
+    "extension": "lacaixa",
+    "name": "Lacaixa"
+  },
+  {
+    "extension": "ladbrokes",
+    "name": "Ladbrokes"
+  },
+  {
+    "extension": "lamborghini",
+    "name": "Lamborghini"
+  },
+  {
+    "extension": "lamer",
+    "name": "Lamer"
+  },
+  {
+    "extension": "lancaster",
+    "name": "Lancaster"
+  },
+  {
+    "extension": "lancia",
+    "name": "Lancia"
+  },
+  {
+    "extension": "lancome",
+    "name": "Lancome"
+  },
+  {
+    "extension": "land",
+    "name": "Land"
+  },
+  {
+    "extension": "landrover",
+    "name": "Landrover"
+  },
+  {
+    "extension": "lanxess",
+    "name": "Lanxess"
+  },
+  {
+    "extension": "lasalle",
+    "name": "Lasalle"
+  },
+  {
+    "extension": "lat",
+    "name": "Lat"
+  },
+  {
+    "extension": "latino",
+    "name": "Latino"
+  },
+  {
+    "extension": "latrobe",
+    "name": "Latrobe"
+  },
+  {
+    "extension": "law",
+    "name": "Law"
+  },
+  {
+    "extension": "lawyer",
+    "name": "Lawyer"
+  },
+  {
+    "extension": "lb",
+    "name": "lb - Lebanon"
+  },
+  {
+    "extension": "lc",
+    "name": "lc - Saint Lucia"
+  },
+  {
+    "extension": "lds",
+    "name": "Lds"
+  },
+  {
+    "extension": "lease",
+    "name": "Lease"
+  },
+  {
+    "extension": "leclerc",
+    "name": "Leclerc"
+  },
+  {
+    "extension": "lefrak",
+    "name": "Lefrak"
+  },
+  {
+    "extension": "legal",
+    "name": "Legal"
+  },
+  {
+    "extension": "lego",
+    "name": "Lego"
+  },
+  {
+    "extension": "lexus",
+    "name": "Lexus"
+  },
+  {
+    "extension": "lg.jp",
+    "name": "lg.jp - Japan"
+  },
+  {
+    "extension": "lgbt",
+    "name": "Lgbt"
+  },
+  {
+    "extension": "li",
+    "name": "li - Liechtenstein"
+  },
+  {
+    "extension": "liaison",
+    "name": "Liaison"
+  },
+  {
+    "extension": "lidl",
+    "name": "Lidl"
+  },
+  {
+    "extension": "life",
+    "name": "Life"
+  },
+  {
+    "extension": "lifeinsurance",
+    "name": "Lifeinsurance"
+  },
+  {
+    "extension": "lifestyle",
+    "name": "Lifestyle"
+  },
+  {
+    "extension": "lighting",
+    "name": "Lighting"
+  },
+  {
+    "extension": "like",
+    "name": "Like"
+  },
+  {
+    "extension": "lilly",
+    "name": "Lilly"
+  },
+  {
+    "extension": "limited",
+    "name": "Limited"
+  },
+  {
+    "extension": "limo",
+    "name": "Limo"
+  },
+  {
+    "extension": "lincoln",
+    "name": "Lincoln"
+  },
+  {
+    "extension": "linde",
+    "name": "Linde"
+  },
+  {
+    "extension": "link",
+    "name": "Link"
+  },
+  {
+    "extension": "lipsy",
+    "name": "Lipsy"
+  },
+  {
+    "extension": "live",
+    "name": "Live"
+  },
+  {
+    "extension": "livestrong",
+    "name": "Livestrong"
+  },
+  {
+    "extension": "living",
+    "name": "Living"
+  },
+  {
+    "extension": "lixil",
+    "name": "Lixil"
+  },
+  {
+    "extension": "lk",
+    "name": "lk - Sri Lanka"
+  },
+  {
+    "extension": "llc",
+    "name": "Llc"
+  },
+  {
+    "extension": "llp",
+    "name": "Llp"
+  },
+  {
+    "extension": "loan",
+    "name": "Loan"
+  },
+  {
+    "extension": "loans",
+    "name": "Loans"
+  },
+  {
+    "extension": "localhost",
+    "name": "localhost - Reserved to Prevent Use"
+  },
+  {
+    "extension": "locker",
+    "name": "Locker"
+  },
+  {
+    "extension": "locus",
+    "name": "Locus"
+  },
+  {
+    "extension": "loft",
+    "name": "Loft"
+  },
+  {
+    "extension": "lol",
+    "name": "Lol"
+  },
+  {
+    "extension": "london",
+    "name": "London"
+  },
+  {
+    "extension": "loreal",
+    "name": "Loreal"
+  },
+  {
+    "extension": "lotte",
+    "name": "Lotte"
+  },
+  {
+    "extension": "lotto",
+    "name": "Lotto"
+  },
+  {
+    "extension": "love",
+    "name": "Love"
+  },
+  {
+    "extension": "lpl",
+    "name": "Lpl"
+  },
+  {
+    "extension": "lplfinancial",
+    "name": "Lplfinancial"
+  },
+  {
+    "extension": "lr",
+    "name": "lr - Liberia"
+  },
+  {
+    "extension": "ls",
+    "name": "ls - Lesotho"
+  },
+  {
+    "extension": "lt",
+    "name": "lt - Lithuania"
+  },
+  {
+    "extension": "ltd",
+    "name": "Ltd"
+  },
+  {
+    "extension": "ltd.uk",
+    "name": "ltd.uk - United Kingdom"
+  },
+  {
+    "extension": "ltda",
+    "name": "Ltda"
+  },
+  {
+    "extension": "lu",
+    "name": "lu - Luxembourg"
+  },
+  {
+    "extension": "lundbeck",
+    "name": "Lundbeck"
+  },
+  {
+    "extension": "lupin",
+    "name": "Lupin"
+  },
+  {
+    "extension": "luxe",
+    "name": "Luxe"
+  },
+  {
+    "extension": "luxury",
+    "name": "Luxury"
+  },
+  {
+    "extension": "lv",
+    "name": "lv - Latvia"
+  },
+  {
+    "extension": "ly",
+    "name": "ly - Libya"
+  },
+  {
+    "extension": "ma",
+    "name": "ma - Morocco"
+  },
+  {
+    "extension": "macys",
+    "name": "Macys"
+  },
+  {
+    "extension": "madrid",
+    "name": "Madrid"
+  },
+  {
+    "extension": "maif",
+    "name": "Maif"
+  },
+  {
+    "extension": "mail",
+    "name": "Mail"
+  },
+  {
+    "extension": "maison",
+    "name": "Maison"
+  },
+  {
+    "extension": "makeup",
+    "name": "Makeup"
+  },
+  {
+    "extension": "man",
+    "name": "Man"
+  },
+  {
+    "extension": "management",
+    "name": "Management"
+  },
+  {
+    "extension": "mango",
+    "name": "Mango"
+  },
+  {
+    "extension": "map",
+    "name": "Map"
+  },
+  {
+    "extension": "market",
+    "name": "Market"
+  },
+  {
+    "extension": "marketing",
+    "name": "Marketing"
+  },
+  {
+    "extension": "markets",
+    "name": "Markets"
+  },
+  {
+    "extension": "marriott",
+    "name": "Marriott"
+  },
+  {
+    "extension": "marshalls",
+    "name": "Marshalls"
+  },
+  {
+    "extension": "maserati",
+    "name": "Maserati"
+  },
+  {
+    "extension": "matrix",
+    "name": "Matrix"
+  },
+  {
+    "extension": "mattel",
+    "name": "Mattel"
+  },
+  {
+    "extension": "maybelline",
+    "name": "Maybelline"
+  },
+  {
+    "extension": "mba",
+    "name": "Mba"
+  },
+  {
+    "extension": "mc",
+    "name": "mc - Monaco"
+  },
+  {
+    "extension": "mcd",
+    "name": "Mcd"
+  },
+  {
+    "extension": "mcdonalds",
+    "name": "Mcdonalds"
+  },
+  {
+    "extension": "mckinsey",
+    "name": "Mckinsey"
+  },
+  {
+    "extension": "md",
+    "name": "md - Moldova"
+  },
+  {
+    "extension": "me",
+    "name": "me - Montenegro"
+  },
+  {
+    "extension": "me.uk",
+    "name": "me.uk - United Kingdom"
+  },
+  {
+    "extension": "med",
+    "name": "Med"
+  },
+  {
+    "extension": "media",
+    "name": "Media"
+  },
+  {
+    "extension": "medical",
+    "name": "Medical"
+  },
+  {
+    "extension": "meet",
+    "name": "Meet"
+  },
+  {
+    "extension": "melbourne",
+    "name": "Melbourne"
+  },
+  {
+    "extension": "meme",
+    "name": "Meme"
+  },
+  {
+    "extension": "memorial",
+    "name": "Memorial"
+  },
+  {
+    "extension": "men",
+    "name": "Men"
+  },
+  {
+    "extension": "menu",
+    "name": "Menu"
+  },
+  {
+    "extension": "meo",
+    "name": "Meo"
+  },
+  {
+    "extension": "merck",
+    "name": "Merck"
+  },
+  {
+    "extension": "merckmsd",
+    "name": "Merckmsd"
+  },
+  {
+    "extension": "metlife",
+    "name": "Metlife"
+  },
+  {
+    "extension": "mg",
+    "name": "mg - Madagascar"
+  },
+  {
+    "extension": "mh",
+    "name": "mh - Marshall Islands"
+  },
+  {
+    "extension": "mi.th",
+    "name": "mi.th - Thailand"
+  },
+  {
+    "extension": "miami",
+    "name": "Miami"
+  },
+  {
+    "extension": "microsoft",
+    "name": "Microsoft"
+  },
+  {
+    "extension": "mih",
+    "name": "Mih"
+  },
+  {
+    "extension": "mii",
+    "name": "Mii"
+  },
+  {
+    "extension": "mil",
+    "name": "mil - US Military"
+  },
+  {
+    "extension": "mil.nz",
+    "name": "mil.nz - New Zealand"
+  },
+  {
+    "extension": "mini",
+    "name": "Mini"
+  },
+  {
+    "extension": "mint",
+    "name": "Mint"
+  },
+  {
+    "extension": "mit",
+    "name": "Mit"
+  },
+  {
+    "extension": "mitek",
+    "name": "Mitek"
+  },
+  {
+    "extension": "mitsubishi",
+    "name": "Mitsubishi"
+  },
+  {
+    "extension": "mk",
+    "name": "mk - Macedonia"
+  },
+  {
+    "extension": "ml",
+    "name": "ml - Mali"
+  },
+  {
+    "extension": "mlb",
+    "name": "Mlb"
+  },
+  {
+    "extension": "mls",
+    "name": "Mls"
+  },
+  {
+    "extension": "mm",
+    "name": "mm - Myanmar"
+  },
+  {
+    "extension": "mma",
+    "name": "Mma"
+  },
+  {
+    "extension": "mn",
+    "name": "mn - Mongolia"
+  },
+  {
+    "extension": "mnet",
+    "name": "Mnet"
+  },
+  {
+    "extension": "mo",
+    "name": "mo - Macau"
+  },
+  {
+    "extension": "mobi",
+    "name": "mobi - Mobile"
+  },
+  {
+    "extension": "mobile",
+    "name": "Mobile"
+  },
+  {
+    "extension": "mobily",
+    "name": "Mobily"
+  },
+  {
+    "extension": "moda",
+    "name": "Moda"
+  },
+  {
+    "extension": "moe",
+    "name": "Moe"
+  },
+  {
+    "extension": "moi",
+    "name": "Moi"
+  },
+  {
+    "extension": "mom",
+    "name": "Mom"
+  },
+  {
+    "extension": "monash",
+    "name": "Monash"
+  },
+  {
+    "extension": "money",
+    "name": "Money"
+  },
+  {
+    "extension": "monster",
+    "name": "Monster"
+  },
+  {
+    "extension": "montblanc",
+    "name": "Montblanc"
+  },
+  {
+    "extension": "mopar",
+    "name": "Mopar"
+  },
+  {
+    "extension": "mormon",
+    "name": "Mormon"
+  },
+  {
+    "extension": "mortgage",
+    "name": "Mortgage"
+  },
+  {
+    "extension": "moscow",
+    "name": "Moscow"
+  },
+  {
+    "extension": "moto",
+    "name": "Moto"
+  },
+  {
+    "extension": "motorcycles",
+    "name": "Motorcycles"
+  },
+  {
+    "extension": "mov",
+    "name": "Mov"
+  },
+  {
+    "extension": "movie",
+    "name": "Movie"
+  },
+  {
+    "extension": "movistar",
+    "name": "Movistar"
+  },
+  {
+    "extension": "mozaic",
+    "name": "Mozaic"
+  },
+  {
+    "extension": "mp",
+    "name": "mp - Northern Mariana Islands"
+  },
+  {
+    "extension": "mq",
+    "name": "mq - Martinique"
+  },
+  {
+    "extension": "mr",
+    "name": "mr - Mauritania"
+  },
+  {
+    "extension": "mrmuscle",
+    "name": "Mrmuscle"
+  },
+  {
+    "extension": "mrporter",
+    "name": "Mrporter"
+  },
+  {
+    "extension": "ms",
+    "name": "ms - Montserrat"
+  },
+  {
+    "extension": "msd",
+    "name": "Msd"
+  },
+  {
+    "extension": "mt",
+    "name": "mt - Malta"
+  },
+  {
+    "extension": "mtn",
+    "name": "Mtn"
+  },
+  {
+    "extension": "mtpc",
+    "name": "Mtpc"
+  },
+  {
+    "extension": "mtr",
+    "name": "Mtr"
+  },
+  {
+    "extension": "mu",
+    "name": "mu - Mauritius"
+  },
+  {
+    "extension": "multichoice",
+    "name": "Multichoice"
+  },
+  {
+    "extension": "museum",
+    "name": "museum - Museum"
+  },
+  {
+    "extension": "music",
+    "name": "Music"
+  },
+  {
+    "extension": "mutual",
+    "name": "Mutual"
+  },
+  {
+    "extension": "mutualfunds",
+    "name": "Mutualfunds"
+  },
+  {
+    "extension": "mutuelle",
+    "name": "Mutuelle"
+  },
+  {
+    "extension": "mv",
+    "name": "mv - Maldives"
+  },
+  {
+    "extension": "mw",
+    "name": "mw - Malawi"
+  },
+  {
+    "extension": "mx",
+    "name": "mx - Mexico"
+  },
+  {
+    "extension": "my",
+    "name": "my - Malaysia"
+  },
+  {
+    "extension": "mz",
+    "name": "mz - Mozambique"
+  },
+  {
+    "extension": "mzansimagic",
+    "name": "Mzansimagic"
+  },
+  {
+    "extension": "na",
+    "name": "na - Namibia"
+  },
+  {
+    "extension": "nab",
+    "name": "Nab"
+  },
+  {
+    "extension": "nadex",
+    "name": "Nadex"
+  },
+  {
+    "extension": "nagoya",
+    "name": "Nagoya"
+  },
+  {
+    "extension": "name",
+    "name": "name - Personal Names"
+  },
+  {
+    "extension": "naspers",
+    "name": "Naspers"
+  },
+  {
+    "extension": "nationwide",
+    "name": "Nationwide"
+  },
+  {
+    "extension": "nato",
+    "name": "nato - NATO"
+  },
+  {
+    "extension": "natura",
+    "name": "Natura"
+  },
+  {
+    "extension": "navy",
+    "name": "Navy"
+  },
+  {
+    "extension": "nba",
+    "name": "Nba"
+  },
+  {
+    "extension": "nc",
+    "name": "nc - New Caledonia"
+  },
+  {
+    "extension": "ne",
+    "name": "ne - Niger"
+  },
+  {
+    "extension": "ne.jp",
+    "name": "ne.jp - Japan"
+  },
+  {
+    "extension": "nec",
+    "name": "Nec"
+  },
+  {
+    "extension": "net",
+    "name": "net - Networks"
+  },
+  {
+    "extension": "net.au",
+    "name": "net.au - Australia"
+  },
+  {
+    "extension": "net.cn",
+    "name": "net.cn - People's Republic of China"
+  },
+  {
+    "extension": "net.nz",
+    "name": "net.nz - New Zealand"
+  },
+  {
+    "extension": "net.sg",
+    "name": "net.sg - Singapore"
+  },
+  {
+    "extension": "net.th",
+    "name": "net.th - Thailand"
+  },
+  {
+    "extension": "net.uk",
+    "name": "net.uk - United Kingdom"
+  },
+  {
+    "extension": "netaporter",
+    "name": "Netaporter"
+  },
+  {
+    "extension": "netbank",
+    "name": "Netbank"
+  },
+  {
+    "extension": "netflix",
+    "name": "Netflix"
+  },
+  {
+    "extension": "network",
+    "name": "Network"
+  },
+  {
+    "extension": "neustar",
+    "name": "Neustar"
+  },
+  {
+    "extension": "new",
+    "name": "New"
+  },
+  {
+    "extension": "newholland",
+    "name": "Newholland"
+  },
+  {
+    "extension": "news",
+    "name": "News"
+  },
+  {
+    "extension": "next",
+    "name": "Next"
+  },
+  {
+    "extension": "nextdirect",
+    "name": "Nextdirect"
+  },
+  {
+    "extension": "nexus",
+    "name": "Nexus"
+  },
+  {
+    "extension": "nf",
+    "name": "nf - Norfolk Island"
+  },
+  {
+    "extension": "nfl",
+    "name": "Nfl"
+  },
+  {
+    "extension": "ng",
+    "name": "ng - Nigeria"
+  },
+  {
+    "extension": "ngo",
+    "name": "Ngo"
+  },
+  {
+    "extension": "nhk",
+    "name": "Nhk"
+  },
+  {
+    "extension": "ni",
+    "name": "ni - Nicaragua"
+  },
+  {
+    "extension": "nico",
+    "name": "Nico"
+  },
+  {
+    "extension": "nike",
+    "name": "Nike"
+  },
+  {
+    "extension": "nikon",
+    "name": "Nikon"
+  },
+  {
+    "extension": "ninja",
+    "name": "Ninja"
+  },
+  {
+    "extension": "nissan",
+    "name": "Nissan"
+  },
+  {
+    "extension": "nissay",
+    "name": "Nissay"
+  },
+  {
+    "extension": "nl",
+    "name": "nl - Netherlands"
+  },
+  {
+    "extension": "no",
+    "name": "no - Norway"
+  },
+  {
+    "extension": "nokia",
+    "name": "Nokia"
+  },
+  {
+    "extension": "northlandinsurance",
+    "name": "Northlandinsurance"
+  },
+  {
+    "extension": "northwesternmutual",
+    "name": "Northwesternmutual"
+  },
+  {
+    "extension": "norton",
+    "name": "Norton"
+  },
+  {
+    "extension": "now",
+    "name": "Now"
+  },
+  {
+    "extension": "nowruz",
+    "name": "Nowruz"
+  },
+  {
+    "extension": "nowtv",
+    "name": "Nowtv"
+  },
+  {
+    "extension": "np",
+    "name": "np - Nepal"
+  },
+  {
+    "extension": "nr",
+    "name": "nr - Nauru"
+  },
+  {
+    "extension": "nra",
+    "name": "Nra"
+  },
+  {
+    "extension": "nrw",
+    "name": "Nrw"
+  },
+  {
+    "extension": "ntt",
+    "name": "Ntt"
+  },
+  {
+    "extension": "nu",
+    "name": "nu - Niue"
+  },
+  {
+    "extension": "nyc",
+    "name": "Nyc"
+  },
+  {
+    "extension": "nz",
+    "name": "nz - New Zealand"
+  },
+  {
+    "extension": "obi",
+    "name": "Obi"
+  },
+  {
+    "extension": "observer",
+    "name": "Observer"
+  },
+  {
+    "extension": "off",
+    "name": "Off"
+  },
+  {
+    "extension": "office",
+    "name": "Office"
+  },
+  {
+    "extension": "okinawa",
+    "name": "Okinawa"
+  },
+  {
+    "extension": "olayan",
+    "name": "Olayan"
+  },
+  {
+    "extension": "olayangroup",
+    "name": "Olayangroup"
+  },
+  {
+    "extension": "oldnavy",
+    "name": "Oldnavy"
+  },
+  {
+    "extension": "ollo",
+    "name": "Ollo"
+  },
+  {
+    "extension": "olympus",
+    "name": "Olympus"
+  },
+  {
+    "extension": "om",
+    "name": "om - Oman"
+  },
+  {
+    "extension": "omega",
+    "name": "Omega"
+  },
+  {
+    "extension": "one",
+    "name": "One"
+  },
+  {
+    "extension": "ong",
+    "name": "Ong"
+  },
+  {
+    "extension": "onl",
+    "name": "Onl"
+  },
+  {
+    "extension": "online",
+    "name": "Online"
+  },
+  {
+    "extension": "onyourside",
+    "name": "Onyourside"
+  },
+  {
+    "extension": "ooo",
+    "name": "Ooo"
+  },
+  {
+    "extension": "open",
+    "name": "Open"
+  },
+  {
+    "extension": "or.at",
+    "name": "or.at - Austria"
+  },
+  {
+    "extension": "or.jp",
+    "name": "or.jp - Japan"
+  },
+  {
+    "extension": "or.th",
+    "name": "or.th - Thailand"
+  },
+  {
+    "extension": "oracle",
+    "name": "Oracle"
+  },
+  {
+    "extension": "orange",
+    "name": "Orange"
+  },
+  {
+    "extension": "org",
+    "name": "org - Non- Commercial Organizations"
+  },
+  {
+    "extension": "org.au",
+    "name": "org.au - Australia"
+  },
+  {
+    "extension": "org.cn",
+    "name": "org.cn - People's Republic of China"
+  },
+  {
+    "extension": "org.il",
+    "name": "org.il - Israel"
+  },
+  {
+    "extension": "org.nz",
+    "name": "org.nz - New Zealand"
+  },
+  {
+    "extension": "org.sg",
+    "name": "org.sg - Singapore"
+  },
+  {
+    "extension": "org.uk",
+    "name": "org.uk - United Kingdom"
+  },
+  {
+    "extension": "organic",
+    "name": "Organic"
+  },
+  {
+    "extension": "orientexpress",
+    "name": "Orientexpress"
+  },
+  {
+    "extension": "origins",
+    "name": "Origins"
+  },
+  {
+    "extension": "osaka",
+    "name": "Osaka"
+  },
+  {
+    "extension": "otsuka",
+    "name": "Otsuka"
+  },
+  {
+    "extension": "ott",
+    "name": "Ott"
+  },
+  {
+    "extension": "overheidnl",
+    "name": "Overheidnl"
+  },
+  {
+    "extension": "ovh",
+    "name": "Ovh"
+  },
+  {
+    "extension": "pa",
+    "name": "pa - Panama"
+  },
+  {
+    "extension": "page",
+    "name": "Page"
+  },
+  {
+    "extension": "pamperedchef",
+    "name": "Pamperedchef"
+  },
+  {
+    "extension": "panasonic",
+    "name": "Panasonic"
+  },
+  {
+    "extension": "panerai",
+    "name": "Panerai"
+  },
+  {
+    "extension": "paris",
+    "name": "Paris"
+  },
+  {
+    "extension": "pars",
+    "name": "Pars"
+  },
+  {
+    "extension": "partners",
+    "name": "Partners"
+  },
+  {
+    "extension": "parts",
+    "name": "Parts"
+  },
+  {
+    "extension": "party",
+    "name": "Party"
+  },
+  {
+    "extension": "passagens",
+    "name": "Passagens"
+  },
+  {
+    "extension": "patagonia",
+    "name": "Patagonia"
+  },
+  {
+    "extension": "patch",
+    "name": "Patch"
+  },
+  {
+    "extension": "pay",
+    "name": "Pay"
+  },
+  {
+    "extension": "payu",
+    "name": "Payu"
+  },
+  {
+    "extension": "pccw",
+    "name": "Pccw"
+  },
+  {
+    "extension": "pe",
+    "name": "pe - Peru"
+  },
+  {
+    "extension": "per.sg",
+    "name": "per.sg - Singapore"
+  },
+  {
+    "extension": "persiangulf",
+    "name": "Persiangulf"
+  },
+  {
+    "extension": "pet",
+    "name": "Pet"
+  },
+  {
+    "extension": "pets",
+    "name": "Pets"
+  },
+  {
+    "extension": "pf",
+    "name": "pf - French Polynesia"
+  },
+  {
+    "extension": "pfizer",
+    "name": "Pfizer"
+  },
+  {
+    "extension": "pg",
+    "name": "pg - Papua New Guinea"
+  },
+  {
+    "extension": "ph",
+    "name": "ph - Philippines"
+  },
+  {
+    "extension": "pharmacy",
+    "name": "Pharmacy"
+  },
+  {
+    "extension": "phd",
+    "name": "Phd"
+  },
+  {
+    "extension": "philips",
+    "name": "Philips"
+  },
+  {
+    "extension": "phone",
+    "name": "Phone"
+  },
+  {
+    "extension": "photo",
+    "name": "Photo"
+  },
+  {
+    "extension": "photography",
+    "name": "Photography"
+  },
+  {
+    "extension": "photos",
+    "name": "Photos"
+  },
+  {
+    "extension": "physio",
+    "name": "Physio"
+  },
+  {
+    "extension": "piaget",
+    "name": "Piaget"
+  },
+  {
+    "extension": "pics",
+    "name": "Pics"
+  },
+  {
+    "extension": "pictet",
+    "name": "Pictet"
+  },
+  {
+    "extension": "pictures",
+    "name": "Pictures"
+  },
+  {
+    "extension": "pid",
+    "name": "Pid"
+  },
+  {
+    "extension": "pin",
+    "name": "Pin"
+  },
+  {
+    "extension": "ping",
+    "name": "Ping"
+  },
+  {
+    "extension": "pink",
+    "name": "Pink"
+  },
+  {
+    "extension": "pioneer",
+    "name": "Pioneer"
+  },
+  {
+    "extension": "piperlime",
+    "name": "Piperlime"
+  },
+  {
+    "extension": "pitney",
+    "name": "Pitney"
+  },
+  {
+    "extension": "pizza",
+    "name": "Pizza"
+  },
+  {
+    "extension": "pk",
+    "name": "pk - Pakistan"
+  },
+  {
+    "extension": "pl",
+    "name": "pl - Poland"
+  },
+  {
+    "extension": "place",
+    "name": "Place"
+  },
+  {
+    "extension": "play",
+    "name": "Play"
+  },
+  {
+    "extension": "playstation",
+    "name": "Playstation"
+  },
+  {
+    "extension": "plc.uk",
+    "name": "plc.uk - United Kingdom"
+  },
+  {
+    "extension": "plumbing",
+    "name": "Plumbing"
+  },
+  {
+    "extension": "plus",
+    "name": "Plus"
+  },
+  {
+    "extension": "pm",
+    "name": "pm - Saint-Pierre and Miquelon"
+  },
+  {
+    "extension": "pn",
+    "name": "pn - Pitcairn Islands"
+  },
+  {
+    "extension": "pnc",
+    "name": "Pnc"
+  },
+  {
+    "extension": "pohl",
+    "name": "Pohl"
+  },
+  {
+    "extension": "poker",
+    "name": "Poker"
+  },
+  {
+    "extension": "politie",
+    "name": "Politie"
+  },
+  {
+    "extension": "polo",
+    "name": "Polo"
+  },
+  {
+    "extension": "porn",
+    "name": "Porn"
+  },
+  {
+    "extension": "post",
+    "name": "post - Postal"
+  },
+  {
+    "extension": "pr",
+    "name": "pr - Puerto Rico"
+  },
+  {
+    "extension": "pramerica",
+    "name": "Pramerica"
+  },
+  {
+    "extension": "praxi",
+    "name": "Praxi"
+  },
+  {
+    "extension": "press",
+    "name": "Press"
+  },
+  {
+    "extension": "prime",
+    "name": "Prime"
+  },
+  {
+    "extension": "pro",
+    "name": "pro - Professionals"
+  },
+  {
+    "extension": "prod",
+    "name": "Prod"
+  },
+  {
+    "extension": "productions",
+    "name": "Productions"
+  },
+  {
+    "extension": "prof",
+    "name": "Prof"
+  },
+  {
+    "extension": "progressive",
+    "name": "Progressive"
+  },
+  {
+    "extension": "promo",
+    "name": "Promo"
+  },
+  {
+    "extension": "properties",
+    "name": "Properties"
+  },
+  {
+    "extension": "property",
+    "name": "Property"
+  },
+  {
+    "extension": "protection",
+    "name": "Protection"
+  },
+  {
+    "extension": "pru",
+    "name": "Pru"
+  },
+  {
+    "extension": "prudential",
+    "name": "Prudential"
+  },
+  {
+    "extension": "ps",
+    "name": "ps - Palestinian Territory"
+  },
+  {
+    "extension": "pt",
+    "name": "pt - Portugal"
+  },
+  {
+    "extension": "pub",
+    "name": "Pub"
+  },
+  {
+    "extension": "pw",
+    "name": "pw - Palau"
+  },
+  {
+    "extension": "pwc",
+    "name": "Pwc"
+  },
+  {
+    "extension": "py",
+    "name": "py - Paraguay"
+  },
+  {
+    "extension": "qa",
+    "name": "qa - Qatar"
+  },
+  {
+    "extension": "qpon",
+    "name": "Qpon"
+  },
+  {
+    "extension": "qtel",
+    "name": "Qtel"
+  },
+  {
+    "extension": "quebec",
+    "name": "Quebec"
+  },
+  {
+    "extension": "quest",
+    "name": "Quest"
+  },
+  {
+    "extension": "qvc",
+    "name": "Qvc"
+  },
+  {
+    "extension": "racing",
+    "name": "Racing"
+  },
+  {
+    "extension": "radio",
+    "name": "Radio"
+  },
+  {
+    "extension": "raid",
+    "name": "Raid"
+  },
+  {
+    "extension": "ram",
+    "name": "Ram"
+  },
+  {
+    "extension": "re",
+    "name": "re - Réunion"
+  },
+  {
+    "extension": "read",
+    "name": "Read"
+  },
+  {
+    "extension": "realestate",
+    "name": "Realestate"
+  },
+  {
+    "extension": "realtor",
+    "name": "Realtor"
+  },
+  {
+    "extension": "realty",
+    "name": "Realty"
+  },
+  {
+    "extension": "recipes",
+    "name": "Recipes"
+  },
+  {
+    "extension": "red",
+    "name": "Red"
+  },
+  {
+    "extension": "redken",
+    "name": "Redken"
+  },
+  {
+    "extension": "redstone",
+    "name": "Redstone"
+  },
+  {
+    "extension": "redumbrella",
+    "name": "Redumbrella"
+  },
+  {
+    "extension": "rehab",
+    "name": "Rehab"
+  },
+  {
+    "extension": "reise",
+    "name": "Reise"
+  },
+  {
+    "extension": "reisen",
+    "name": "Reisen"
+  },
+  {
+    "extension": "reit",
+    "name": "Reit"
+  },
+  {
+    "extension": "reliance",
+    "name": "Reliance"
+  },
+  {
+    "extension": "ren",
+    "name": "Ren"
+  },
+  {
+    "extension": "rent",
+    "name": "Rent"
+  },
+  {
+    "extension": "rentals",
+    "name": "Rentals"
+  },
+  {
+    "extension": "repair",
+    "name": "Repair"
+  },
+  {
+    "extension": "report",
+    "name": "Report"
+  },
+  {
+    "extension": "republican",
+    "name": "Republican"
+  },
+  {
+    "extension": "rest",
+    "name": "Rest"
+  },
+  {
+    "extension": "restaurant",
+    "name": "Restaurant"
+  },
+  {
+    "extension": "retirement",
+    "name": "Retirement"
+  },
+  {
+    "extension": "review",
+    "name": "Review"
+  },
+  {
+    "extension": "reviews",
+    "name": "Reviews"
+  },
+  {
+    "extension": "rexroth",
+    "name": "Rexroth"
+  },
+  {
+    "extension": "rich",
+    "name": "Rich"
+  },
+  {
+    "extension": "richardli",
+    "name": "Richardli"
+  },
+  {
+    "extension": "ricoh",
+    "name": "Ricoh"
+  },
+  {
+    "extension": "rightathome",
+    "name": "Rightathome"
+  },
+  {
+    "extension": "ril",
+    "name": "Ril"
+  },
+  {
+    "extension": "rio",
+    "name": "Rio"
+  },
+  {
+    "extension": "rip",
+    "name": "Rip"
+  },
+  {
+    "extension": "rmit",
+    "name": "Rmit"
+  },
+  {
+    "extension": "ro",
+    "name": "ro - Romania"
+  },
+  {
+    "extension": "rocher",
+    "name": "Rocher"
+  },
+  {
+    "extension": "rocks",
+    "name": "Rocks"
+  },
+  {
+    "extension": "rockwool",
+    "name": "Rockwool"
+  },
+  {
+    "extension": "rodeo",
+    "name": "Rodeo"
+  },
+  {
+    "extension": "rogers",
+    "name": "Rogers"
+  },
+  {
+    "extension": "roma",
+    "name": "Roma"
+  },
+  {
+    "extension": "room",
+    "name": "Room"
+  },
+  {
+    "extension": "root",
+    "name": "root - Root Server Infrastructure"
+  },
+  {
+    "extension": "rs",
+    "name": "rs - Serbia"
+  },
+  {
+    "extension": "rsvp",
+    "name": "Rsvp"
+  },
+  {
+    "extension": "ru",
+    "name": "ru - Russia"
+  },
+  {
+    "extension": "rugby",
+    "name": "Rugby"
+  },
+  {
+    "extension": "ruhr",
+    "name": "Ruhr"
+  },
+  {
+    "extension": "run",
+    "name": "Run"
+  },
+  {
+    "extension": "rw",
+    "name": "rw - Rwanda"
+  },
+  {
+    "extension": "rwe",
+    "name": "Rwe"
+  },
+  {
+    "extension": "ryukyu",
+    "name": "Ryukyu"
+  },
+  {
+    "extension": "sa",
+    "name": "sa - Saudi Arabia"
+  },
+  {
+    "extension": "saarland",
+    "name": "Saarland"
+  },
+  {
+    "extension": "safe",
+    "name": "Safe"
+  },
+  {
+    "extension": "safety",
+    "name": "Safety"
+  },
+  {
+    "extension": "safeway",
+    "name": "Safeway"
+  },
+  {
+    "extension": "sakura",
+    "name": "Sakura"
+  },
+  {
+    "extension": "sale",
+    "name": "Sale"
+  },
+  {
+    "extension": "salon",
+    "name": "Salon"
+  },
+  {
+    "extension": "samsclub",
+    "name": "Samsclub"
+  },
+  {
+    "extension": "samsung",
+    "name": "Samsung"
+  },
+  {
+    "extension": "sandvik",
+    "name": "Sandvik"
+  },
+  {
+    "extension": "sandvikcoromant",
+    "name": "Sandvikcoromant"
+  },
+  {
+    "extension": "sanofi",
+    "name": "Sanofi"
+  },
+  {
+    "extension": "sap",
+    "name": "Sap"
+  },
+  {
+    "extension": "sapo",
+    "name": "Sapo"
+  },
+  {
+    "extension": "sapphire",
+    "name": "Sapphire"
+  },
+  {
+    "extension": "sarl",
+    "name": "Sarl"
+  },
+  {
+    "extension": "sas",
+    "name": "Sas"
+  },
+  {
+    "extension": "save",
+    "name": "Save"
+  },
+  {
+    "extension": "saxo",
+    "name": "Saxo"
+  },
+  {
+    "extension": "sb",
+    "name": "sb - Solomon Islands"
+  },
+  {
+    "extension": "sbi",
+    "name": "Sbi"
+  },
+  {
+    "extension": "sbs",
+    "name": "Sbs"
+  },
+  {
+    "extension": "sc",
+    "name": "sc - Seychelles"
+  },
+  {
+    "extension": "sca",
+    "name": "Sca"
+  },
+  {
+    "extension": "scb",
+    "name": "Scb"
+  },
+  {
+    "extension": "schaeffler",
+    "name": "Schaeffler"
+  },
+  {
+    "extension": "schmidt",
+    "name": "Schmidt"
+  },
+  {
+    "extension": "scholarships",
+    "name": "Scholarships"
+  },
+  {
+    "extension": "school",
+    "name": "School"
+  },
+  {
+    "extension": "school.nz",
+    "name": "school.nz - New Zealand"
+  },
+  {
+    "extension": "schule",
+    "name": "Schule"
+  },
+  {
+    "extension": "schwarz",
+    "name": "Schwarz"
+  },
+  {
+    "extension": "schwarzgroup",
+    "name": "Schwarzgroup"
+  },
+  {
+    "extension": "science",
+    "name": "Science"
+  },
+  {
+    "extension": "scjohnson",
+    "name": "Scjohnson"
+  },
+  {
+    "extension": "sco",
+    "name": "sco - Scots Language"
+  },
+  {
+    "extension": "scor",
+    "name": "Scor"
+  },
+  {
+    "extension": "scot",
+    "name": "Scot"
+  },
+  {
+    "extension": "sd",
+    "name": "sd - Sudan"
+  },
+  {
+    "extension": "se",
+    "name": "se - Sweden"
+  },
+  {
+    "extension": "search",
+    "name": "Search"
+  },
+  {
+    "extension": "seat",
+    "name": "Seat"
+  },
+  {
+    "extension": "secure",
+    "name": "Secure"
+  },
+  {
+    "extension": "security",
+    "name": "Security"
+  },
+  {
+    "extension": "seek",
+    "name": "Seek"
+  },
+  {
+    "extension": "select",
+    "name": "Select"
+  },
+  {
+    "extension": "sener",
+    "name": "Sener"
+  },
+  {
+    "extension": "services",
+    "name": "Services"
+  },
+  {
+    "extension": "ses",
+    "name": "Ses"
+  },
+  {
+    "extension": "seven",
+    "name": "Seven"
+  },
+  {
+    "extension": "sew",
+    "name": "Sew"
+  },
+  {
+    "extension": "sex",
+    "name": "Sex"
+  },
+  {
+    "extension": "sexy",
+    "name": "Sexy"
+  },
+  {
+    "extension": "sfr",
+    "name": "Sfr"
+  },
+  {
+    "extension": "sg",
+    "name": "sg - Singapore"
+  },
+  {
+    "extension": "sh",
+    "name": "sh - Saint Helena"
+  },
+  {
+    "extension": "shangrila",
+    "name": "Shangrila"
+  },
+  {
+    "extension": "sharp",
+    "name": "Sharp"
+  },
+  {
+    "extension": "shaw",
+    "name": "Shaw"
+  },
+  {
+    "extension": "shell",
+    "name": "Shell"
+  },
+  {
+    "extension": "shia",
+    "name": "Shia"
+  },
+  {
+    "extension": "shiksha",
+    "name": "Shiksha"
+  },
+  {
+    "extension": "shoes",
+    "name": "Shoes"
+  },
+  {
+    "extension": "shop",
+    "name": "Shop"
+  },
+  {
+    "extension": "shopping",
+    "name": "Shopping"
+  },
+  {
+    "extension": "shopyourway",
+    "name": "Shopyourway"
+  },
+  {
+    "extension": "shouji",
+    "name": "Shouji"
+  },
+  {
+    "extension": "show",
+    "name": "Show"
+  },
+  {
+    "extension": "showtime",
+    "name": "Showtime"
+  },
+  {
+    "extension": "shriram",
+    "name": "Shriram"
+  },
+  {
+    "extension": "si",
+    "name": "si - Slovenia"
+  },
+  {
+    "extension": "silk",
+    "name": "Silk"
+  },
+  {
+    "extension": "sina",
+    "name": "Sina"
+  },
+  {
+    "extension": "singles",
+    "name": "Singles"
+  },
+  {
+    "extension": "site",
+    "name": "Site"
+  },
+  {
+    "extension": "sj",
+    "name": "sj - Svalbard"
+  },
+  {
+    "extension": "sk",
+    "name": "sk - Slovakia"
+  },
+  {
+    "extension": "ski",
+    "name": "Ski"
+  },
+  {
+    "extension": "skin",
+    "name": "Skin"
+  },
+  {
+    "extension": "skolkovo",
+    "name": "Skolkovo"
+  },
+  {
+    "extension": "sky",
+    "name": "Sky"
+  },
+  {
+    "extension": "skydrive",
+    "name": "Skydrive"
+  },
+  {
+    "extension": "skype",
+    "name": "Skype"
+  },
+  {
+    "extension": "sl",
+    "name": "sl - Sierra Leone"
+  },
+  {
+    "extension": "sling",
+    "name": "Sling"
+  },
+  {
+    "extension": "sm",
+    "name": "sm - San Marino"
+  },
+  {
+    "extension": "smart",
+    "name": "Smart"
+  },
+  {
+    "extension": "smile",
+    "name": "Smile"
+  },
+  {
+    "extension": "sn",
+    "name": "sn - Senegal"
+  },
+  {
+    "extension": "sncf",
+    "name": "Sncf"
+  },
+  {
+    "extension": "so",
+    "name": "so - Somalia"
+  },
+  {
+    "extension": "soccer",
+    "name": "Soccer"
+  },
+  {
+    "extension": "social",
+    "name": "Social"
+  },
+  {
+    "extension": "softbank",
+    "name": "Softbank"
+  },
+  {
+    "extension": "software",
+    "name": "Software"
+  },
+  {
+    "extension": "sohu",
+    "name": "Sohu"
+  },
+  {
+    "extension": "solar",
+    "name": "Solar"
+  },
+  {
+    "extension": "solutions",
+    "name": "Solutions"
+  },
+  {
+    "extension": "song",
+    "name": "Song"
+  },
+  {
+    "extension": "sony",
+    "name": "Sony"
+  },
+  {
+    "extension": "soy",
+    "name": "Soy"
+  },
+  {
+    "extension": "spa",
+    "name": "Spa"
+  },
+  {
+    "extension": "space",
+    "name": "Space"
+  },
+  {
+    "extension": "spiegel",
+    "name": "Spiegel"
+  },
+  {
+    "extension": "sport",
+    "name": "Sport"
+  },
+  {
+    "extension": "sports",
+    "name": "Sports"
+  },
+  {
+    "extension": "spot",
+    "name": "Spot"
+  },
+  {
+    "extension": "spreadbetting",
+    "name": "Spreadbetting"
+  },
+  {
+    "extension": "sr",
+    "name": "sr - Suriname"
+  },
+  {
+    "extension": "srl",
+    "name": "Srl"
+  },
+  {
+    "extension": "srt",
+    "name": "Srt"
+  },
+  {
+    "extension": "st",
+    "name": "st - São Tomé and Príncipe"
+  },
+  {
+    "extension": "stada",
+    "name": "Stada"
+  },
+  {
+    "extension": "staples",
+    "name": "Staples"
+  },
+  {
+    "extension": "star",
+    "name": "Star"
+  },
+  {
+    "extension": "starhub",
+    "name": "Starhub"
+  },
+  {
+    "extension": "statebank",
+    "name": "Statebank"
+  },
+  {
+    "extension": "statefarm",
+    "name": "Statefarm"
+  },
+  {
+    "extension": "statoil",
+    "name": "Statoil"
+  },
+  {
+    "extension": "stc",
+    "name": "Stc"
+  },
+  {
+    "extension": "stcgroup",
+    "name": "Stcgroup"
+  },
+  {
+    "extension": "stockholm",
+    "name": "Stockholm"
+  },
+  {
+    "extension": "storage",
+    "name": "Storage"
+  },
+  {
+    "extension": "store",
+    "name": "Store"
+  },
+  {
+    "extension": "stream",
+    "name": "Stream"
+  },
+  {
+    "extension": "stroke",
+    "name": "Stroke"
+  },
+  {
+    "extension": "studio",
+    "name": "Studio"
+  },
+  {
+    "extension": "study",
+    "name": "Study"
+  },
+  {
+    "extension": "style",
+    "name": "Style"
+  },
+  {
+    "extension": "su",
+    "name": "su - Soviet Union"
+  },
+  {
+    "extension": "sucks",
+    "name": "Sucks"
+  },
+  {
+    "extension": "supersport",
+    "name": "Supersport"
+  },
+  {
+    "extension": "supplies",
+    "name": "Supplies"
+  },
+  {
+    "extension": "supply",
+    "name": "Supply"
+  },
+  {
+    "extension": "support",
+    "name": "Support"
+  },
+  {
+    "extension": "surf",
+    "name": "Surf"
+  },
+  {
+    "extension": "surgery",
+    "name": "Surgery"
+  },
+  {
+    "extension": "suzuki",
+    "name": "Suzuki"
+  },
+  {
+    "extension": "sv",
+    "name": "sv - El Salvador"
+  },
+  {
+    "extension": "svr",
+    "name": "Svr"
+  },
+  {
+    "extension": "swatch",
+    "name": "Swatch"
+  },
+  {
+    "extension": "swiftcover",
+    "name": "Swiftcover"
+  },
+  {
+    "extension": "swiss",
+    "name": "Swiss"
+  },
+  {
+    "extension": "sx",
+    "name": "sx - Sint Maarten"
+  },
+  {
+    "extension": "sy",
+    "name": "sy - Syria"
+  },
+  {
+    "extension": "sydney",
+    "name": "Sydney"
+  },
+  {
+    "extension": "symantec",
+    "name": "Symantec"
+  },
+  {
+    "extension": "systems",
+    "name": "Systems"
+  },
+  {
+    "extension": "sz",
+    "name": "sz - Swaziland"
+  },
+  {
+    "extension": "tab",
+    "name": "Tab"
+  },
+  {
+    "extension": "taipei",
+    "name": "Taipei"
+  },
+  {
+    "extension": "talk",
+    "name": "Talk"
+  },
+  {
+    "extension": "taobao",
+    "name": "Taobao"
+  },
+  {
+    "extension": "target",
+    "name": "Target"
+  },
+  {
+    "extension": "tata",
+    "name": "Tata"
+  },
+  {
+    "extension": "tatamotors",
+    "name": "Tatamotors"
+  },
+  {
+    "extension": "tatar",
+    "name": "Tatar"
+  },
+  {
+    "extension": "tattoo",
+    "name": "Tattoo"
+  },
+  {
+    "extension": "tax",
+    "name": "Tax"
+  },
+  {
+    "extension": "taxi",
+    "name": "Taxi"
+  },
+  {
+    "extension": "tc",
+    "name": "tc - Turks and Caicos Islands"
+  },
+  {
+    "extension": "tci",
+    "name": "Tci"
+  },
+  {
+    "extension": "td",
+    "name": "td - Chad"
+  },
+  {
+    "extension": "tdk",
+    "name": "Tdk"
+  },
+  {
+    "extension": "team",
+    "name": "Team"
+  },
+  {
+    "extension": "tech",
+    "name": "Tech"
+  },
+  {
+    "extension": "technology",
+    "name": "Technology"
+  },
+  {
+    "extension": "tel",
+    "name": "tel - Internet Communication"
+  },
+  {
+    "extension": "telecity",
+    "name": "Telecity"
+  },
+  {
+    "extension": "telefonica",
+    "name": "Telefonica"
+  },
+  {
+    "extension": "temasek",
+    "name": "Temasek"
+  },
+  {
+    "extension": "tennis",
+    "name": "Tennis"
+  },
+  {
+    "extension": "terra",
+    "name": "Terra"
+  },
+  {
+    "extension": "test",
+    "name": "test - Private Testing"
+  },
+  {
+    "extension": "teva",
+    "name": "Teva"
+  },
+  {
+    "extension": "tf",
+    "name": "tf - French Southern and Antarctic Lands"
+  },
+  {
+    "extension": "tg",
+    "name": "tg - Togo"
+  },
+  {
+    "extension": "th",
+    "name": "th - Thailand"
+  },
+  {
+    "extension": "thai",
+    "name": "Thai"
+  },
+  {
+    "extension": "thd",
+    "name": "Thd"
+  },
+  {
+    "extension": "theater",
+    "name": "Theater"
+  },
+  {
+    "extension": "theatre",
+    "name": "Theatre"
+  },
+  {
+    "extension": "theguardian",
+    "name": "Theguardian"
+  },
+  {
+    "extension": "thehartford",
+    "name": "Thehartford"
+  },
+  {
+    "extension": "tiaa",
+    "name": "Tiaa"
+  },
+  {
+    "extension": "tickets",
+    "name": "Tickets"
+  },
+  {
+    "extension": "tienda",
+    "name": "Tienda"
+  },
+  {
+    "extension": "tiffany",
+    "name": "Tiffany"
+  },
+  {
+    "extension": "tips",
+    "name": "Tips"
+  },
+  {
+    "extension": "tires",
+    "name": "Tires"
+  },
+  {
+    "extension": "tirol",
+    "name": "Tirol"
+  },
+  {
+    "extension": "tj",
+    "name": "tj - Tajikistan"
+  },
+  {
+    "extension": "tjmaxx",
+    "name": "Tjmaxx"
+  },
+  {
+    "extension": "tjx",
+    "name": "Tjx"
+  },
+  {
+    "extension": "tk",
+    "name": "tk - Tokelau"
+  },
+  {
+    "extension": "tkmaxx",
+    "name": "Tkmaxx"
+  },
+  {
+    "extension": "tl",
+    "name": "tl - Timor- leste"
+  },
+  {
+    "extension": "tm",
+    "name": "tm - Turkmenistan"
+  },
+  {
+    "extension": "tmall",
+    "name": "Tmall"
+  },
+  {
+    "extension": "tn",
+    "name": "tn - Tunisia"
+  },
+  {
+    "extension": "to",
+    "name": "to - Tonga"
+  },
+  {
+    "extension": "today",
+    "name": "Today"
+  },
+  {
+    "extension": "tokyo",
+    "name": "Tokyo"
+  },
+  {
+    "extension": "tools",
+    "name": "Tools"
+  },
+  {
+    "extension": "top",
+    "name": "Top"
+  },
+  {
+    "extension": "toray",
+    "name": "Toray"
+  },
+  {
+    "extension": "toshiba",
+    "name": "Toshiba"
+  },
+  {
+    "extension": "total",
+    "name": "Total"
+  },
+  {
+    "extension": "tour",
+    "name": "Tour"
+  },
+  {
+    "extension": "tours",
+    "name": "Tours"
+  },
+  {
+    "extension": "town",
+    "name": "Town"
+  },
+  {
+    "extension": "toyota",
+    "name": "Toyota"
+  },
+  {
+    "extension": "toys",
+    "name": "Toys"
+  },
+  {
+    "extension": "tp",
+    "name": "tp - East Timor"
+  },
+  {
+    "extension": "tr",
+    "name": "tr - Turkey"
+  },
+  {
+    "extension": "trade",
+    "name": "Trade"
+  },
+  {
+    "extension": "tradershotels",
+    "name": "Tradershotels"
+  },
+  {
+    "extension": "trading",
+    "name": "Trading"
+  },
+  {
+    "extension": "training",
+    "name": "Training"
+  },
+  {
+    "extension": "transformers",
+    "name": "Transformers"
+  },
+  {
+    "extension": "translations",
+    "name": "Translations"
+  },
+  {
+    "extension": "transunion",
+    "name": "Transunion"
+  },
+  {
+    "extension": "travel",
+    "name": "travel - Travel"
+  },
+  {
+    "extension": "travelchannel",
+    "name": "Travelchannel"
+  },
+  {
+    "extension": "travelers",
+    "name": "Travelers"
+  },
+  {
+    "extension": "travelersinsurance",
+    "name": "Travelersinsurance"
+  },
+  {
+    "extension": "travelguard",
+    "name": "Travelguard"
+  },
+  {
+    "extension": "trust",
+    "name": "Trust"
+  },
+  {
+    "extension": "trv",
+    "name": "Trv"
+  },
+  {
+    "extension": "tt",
+    "name": "tt - Trinidad and Tobago"
+  },
+  {
+    "extension": "tube",
+    "name": "Tube"
+  },
+  {
+    "extension": "tui",
+    "name": "Tui"
+  },
+  {
+    "extension": "tunes",
+    "name": "Tunes"
+  },
+  {
+    "extension": "tushu",
+    "name": "Tushu"
+  },
+  {
+    "extension": "tv",
+    "name": "tv - Tuvalu"
+  },
+  {
+    "extension": "tvs",
+    "name": "Tvs"
+  },
+  {
+    "extension": "tw",
+    "name": "tw - Taiwan"
+  },
+  {
+    "extension": "tz",
+    "name": "tz - Tanzania"
+  },
+  {
+    "extension": "ua",
+    "name": "ua - Ukraine"
+  },
+  {
+    "extension": "ubank",
+    "name": "Ubank"
+  },
+  {
+    "extension": "ubs",
+    "name": "Ubs"
+  },
+  {
+    "extension": "uconnect",
+    "name": "Uconnect"
+  },
+  {
+    "extension": "ug",
+    "name": "ug - Uganda"
+  },
+  {
+    "extension": "uk",
+    "name": "uk - United Kingdom"
+  },
+  {
+    "extension": "ultrabook",
+    "name": "Ultrabook"
+  },
+  {
+    "extension": "um",
+    "name": "um -  United States Minor Outlying Islands"
+  },
+  {
+    "extension": "ummah",
+    "name": "Ummah"
+  },
+  {
+    "extension": "unicom",
+    "name": "Unicom"
+  },
+  {
+    "extension": "unicorn",
+    "name": "Unicorn"
+  },
+  {
+    "extension": "university",
+    "name": "University"
+  },
+  {
+    "extension": "uno",
+    "name": "Uno"
+  },
+  {
+    "extension": "uol",
+    "name": "Uol"
+  },
+  {
+    "extension": "ups",
+    "name": "Ups"
+  },
+  {
+    "extension": "us",
+    "name": "us - United States of America"
+  },
+  {
+    "extension": "uy",
+    "name": "uy - Uruguay"
+  },
+  {
+    "extension": "uz",
+    "name": "uz - Uzbekistan"
+  },
+  {
+    "extension": "va",
+    "name": "va - Vatican City"
+  },
+  {
+    "extension": "vacations",
+    "name": "Vacations"
+  },
+  {
+    "extension": "vana",
+    "name": "Vana"
+  },
+  {
+    "extension": "vanguard",
+    "name": "Vanguard"
+  },
+  {
+    "extension": "vanish",
+    "name": "Vanish"
+  },
+  {
+    "extension": "vc",
+    "name": "vc - Saint Vincent and the Grenadines"
+  },
+  {
+    "extension": "ve",
+    "name": "ve - Venezuela"
+  },
+  {
+    "extension": "vegas",
+    "name": "Vegas"
+  },
+  {
+    "extension": "ventures",
+    "name": "Ventures"
+  },
+  {
+    "extension": "verisign",
+    "name": "Verisign"
+  },
+  {
+    "extension": "vermögensberater",
+    "name": "Vermögensberater"
+  },
+  {
+    "extension": "vermögensberatung",
+    "name": "Vermögensberatung"
+  },
+  {
+    "extension": "versicherung",
+    "name": "Versicherung"
+  },
+  {
+    "extension": "vet",
+    "name": "Vet"
+  },
+  {
+    "extension": "vg",
+    "name": "vg - British Virgin Islands"
+  },
+  {
+    "extension": "vi",
+    "name": "vi - United States Virgin Islands"
+  },
+  {
+    "extension": "viajes",
+    "name": "Viajes"
+  },
+  {
+    "extension": "video",
+    "name": "Video"
+  },
+  {
+    "extension": "vig",
+    "name": "Vig"
+  },
+  {
+    "extension": "viking",
+    "name": "Viking"
+  },
+  {
+    "extension": "villas",
+    "name": "Villas"
+  },
+  {
+    "extension": "vin",
+    "name": "Vin"
+  },
+  {
+    "extension": "vip",
+    "name": "Vip"
+  },
+  {
+    "extension": "virgin",
+    "name": "Virgin"
+  },
+  {
+    "extension": "visa",
+    "name": "Visa"
+  },
+  {
+    "extension": "vision",
+    "name": "Vision"
+  },
+  {
+    "extension": "vista",
+    "name": "Vista"
+  },
+  {
+    "extension": "vistaprint",
+    "name": "Vistaprint"
+  },
+  {
+    "extension": "viva",
+    "name": "Viva"
+  },
+  {
+    "extension": "vivo",
+    "name": "Vivo"
+  },
+  {
+    "extension": "vlaanderen",
+    "name": "Vlaanderen"
+  },
+  {
+    "extension": "vn",
+    "name": "vn - Vietnam"
+  },
+  {
+    "extension": "vodka",
+    "name": "Vodka"
+  },
+  {
+    "extension": "volkswagen",
+    "name": "Volkswagen"
+  },
+  {
+    "extension": "volvo",
+    "name": "Volvo"
+  },
+  {
+    "extension": "vons",
+    "name": "Vons"
+  },
+  {
+    "extension": "vote",
+    "name": "Vote"
+  },
+  {
+    "extension": "voting",
+    "name": "Voting"
+  },
+  {
+    "extension": "voto",
+    "name": "Voto"
+  },
+  {
+    "extension": "voyage",
+    "name": "Voyage"
+  },
+  {
+    "extension": "vu",
+    "name": "vu - Vanuatu"
+  },
+  {
+    "extension": "vuelos",
+    "name": "Vuelos"
+  },
+  {
+    "extension": "wales",
+    "name": "Wales"
+  },
+  {
+    "extension": "walmart",
+    "name": "Walmart"
+  },
+  {
+    "extension": "walter",
+    "name": "Walter"
+  },
+  {
+    "extension": "wang",
+    "name": "Wang"
+  },
+  {
+    "extension": "wanggou",
+    "name": "Wanggou"
+  },
+  {
+    "extension": "warman",
+    "name": "Warman"
+  },
+  {
+    "extension": "watch",
+    "name": "Watch"
+  },
+  {
+    "extension": "watches",
+    "name": "Watches"
+  },
+  {
+    "extension": "weather",
+    "name": "Weather"
+  },
+  {
+    "extension": "weatherchannel",
+    "name": "Weatherchannel"
+  },
+  {
+    "extension": "web",
+    "name": "Web"
+  },
+  {
+    "extension": "webcam",
+    "name": "Webcam"
+  },
+  {
+    "extension": "weber",
+    "name": "Weber"
+  },
+  {
+    "extension": "webjet",
+    "name": "Webjet"
+  },
+  {
+    "extension": "webs",
+    "name": "Webs"
+  },
+  {
+    "extension": "website",
+    "name": "Website"
+  },
+  {
+    "extension": "wed",
+    "name": "Wed"
+  },
+  {
+    "extension": "wedding",
+    "name": "Wedding"
+  },
+  {
+    "extension": "weibo",
+    "name": "Weibo"
+  },
+  {
+    "extension": "weir",
+    "name": "Weir"
+  },
+  {
+    "extension": "wf",
+    "name": "wf - Wallis and Futuna"
+  },
+  {
+    "extension": "whoswho",
+    "name": "Whoswho"
+  },
+  {
+    "extension": "wien",
+    "name": "Wien"
+  },
+  {
+    "extension": "wiki",
+    "name": "Wiki"
+  },
+  {
+    "extension": "williamhill",
+    "name": "Williamhill"
+  },
+  {
+    "extension": "wilmar",
+    "name": "Wilmar"
+  },
+  {
+    "extension": "win",
+    "name": "Win"
+  },
+  {
+    "extension": "windows",
+    "name": "Windows"
+  },
+  {
+    "extension": "wine",
+    "name": "Wine"
+  },
+  {
+    "extension": "winners",
+    "name": "Winners"
+  },
+  {
+    "extension": "wme",
+    "name": "Wme"
+  },
+  {
+    "extension": "wolterskluwer",
+    "name": "Wolterskluwer"
+  },
+  {
+    "extension": "woodside",
+    "name": "Woodside"
+  },
+  {
+    "extension": "work",
+    "name": "Work"
+  },
+  {
+    "extension": "works",
+    "name": "Works"
+  },
+  {
+    "extension": "world",
+    "name": "World"
+  },
+  {
+    "extension": "wow",
+    "name": "Wow"
+  },
+  {
+    "extension": "ws",
+    "name": "ws - Samoa"
+  },
+  {
+    "extension": "wtc",
+    "name": "Wtc"
+  },
+  {
+    "extension": "wtf",
+    "name": "Wtf"
+  },
+  {
+    "extension": "xbox",
+    "name": "Xbox"
+  },
+  {
+    "extension": "xerox",
+    "name": "Xerox"
+  },
+  {
+    "extension": "xfinity",
+    "name": "Xfinity"
+  },
+  {
+    "extension": "xihuan",
+    "name": "Xihuan"
+  },
+  {
+    "extension": "xin",
+    "name": "Xin"
+  },
+  {
+    "extension": "xperia",
+    "name": "Xperia"
+  },
+  {
+    "extension": "xxx",
+    "name": "xxx - Pornography"
+  },
+  {
+    "extension": "xyz",
+    "name": "Xyz"
+  },
+  {
+    "extension": "yachts",
+    "name": "Yachts"
+  },
+  {
+    "extension": "yahoo",
+    "name": "Yahoo"
+  },
+  {
+    "extension": "yamaxun",
+    "name": "Yamaxun"
+  },
+  {
+    "extension": "yandex",
+    "name": "Yandex"
+  },
+  {
+    "extension": "ye",
+    "name": "ye - Yemen"
+  },
+  {
+    "extension": "yellowpages",
+    "name": "Yellowpages"
+  },
+  {
+    "extension": "yodobashi",
+    "name": "Yodobashi"
+  },
+  {
+    "extension": "yoga",
+    "name": "Yoga"
+  },
+  {
+    "extension": "yokohama",
+    "name": "Yokohama"
+  },
+  {
+    "extension": "you",
+    "name": "You"
+  },
+  {
+    "extension": "youtube",
+    "name": "Youtube"
+  },
+  {
+    "extension": "yt",
+    "name": "yt - Mayotte"
+  },
+  {
+    "extension": "yun",
+    "name": "Yun"
+  },
+  {
+    "extension": "za",
+    "name": "za - South Africa"
+  },
+  {
+    "extension": "zappos",
+    "name": "Zappos"
+  },
+  {
+    "extension": "zara",
+    "name": "Zara"
+  },
+  {
+    "extension": "zero",
+    "name": "Zero"
+  },
+  {
+    "extension": "zip",
+    "name": "Zip"
+  },
+  {
+    "extension": "zippo",
+    "name": "Zippo"
+  },
+  {
+    "extension": "zm",
+    "name": "zm - Zambia"
+  },
+  {
+    "extension": "zone",
+    "name": "Zone"
+  },
+  {
+    "extension": "zr",
+    "name": "zr - Zaire"
+  },
+  {
+    "extension": "zuerich",
+    "name": "Zuerich"
+  },
+  {
+    "extension": "zulu",
+    "name": "Zulu"
+  },
+  {
+    "extension": "zw",
+    "name": "zw - Zimbabwe"
+  },
+  {
+    "extension": "дети",
+    "name": "Дети"
+  },
+  {
+    "extension": "католик",
+    "name": "Католик"
+  },
+  {
+    "extension": "ком",
+    "name": "Ком"
+  },
+  {
+    "extension": "москва",
+    "name": "Москва"
+  },
+  {
+    "extension": "онлайн",
+    "name": "Онлайн"
+  },
+  {
+    "extension": "орг",
+    "name": "Орг"
+  },
+  {
+    "extension": "рус",
+    "name": "Рус"
+  },
+  {
+    "extension": "сайт",
+    "name": "Сайт"
+  },
+  {
+    "extension": "קוֹם",
+    "name": "קוֹם"
+  },
+  {
+    "extension": "ابوظبي",
+    "name": "ابوظبي"
+  },
+  {
+    "extension": "اتصالات",
+    "name": "اتصالات"
+  },
+  {
+    "extension": "ارامكو",
+    "name": "ارامكو"
+  },
+  {
+    "extension": "العليان",
+    "name": "العليان"
+  },
+  {
+    "extension": "بازار",
+    "name": "بازار"
+  },
+  {
+    "extension": "بيتك",
+    "name": "بيتك"
+  },
+  {
+    "extension": "شبكة",
+    "name": "شبكة"
+  },
+  {
+    "extension": "عرب",
+    "name": "عرب"
+  },
+  {
+    "extension": "كاثوليك",
+    "name": "كاثوليك"
+  },
+  {
+    "extension": "كوم",
+    "name": "كوم"
+  },
+  {
+    "extension": "كيوتل",
+    "name": "كيوتل"
+  },
+  {
+    "extension": "موبايلي",
+    "name": "موبايلي"
+  },
+  {
+    "extension": "موزايك",
+    "name": "موزايك"
+  },
+  {
+    "extension": "موقع",
+    "name": "موقع"
+  },
+  {
+    "extension": "همراه",
+    "name": "همراه"
+  },
+  {
+    "extension": "कॉम",
+    "name": "कॉम"
+  },
+  {
+    "extension": "नेट",
+    "name": "नेट"
+  },
+  {
+    "extension": "संगठन",
+    "name": "संगठन"
+  },
+  {
+    "extension": "คอม",
+    "name": "คอม"
+  },
+  {
+    "extension": "アマゾン",
+    "name": "アマゾン"
+  },
+  {
+    "extension": "グーグル",
+    "name": "グーグル"
+  },
+  {
+    "extension": "クラウド",
+    "name": "クラウド"
+  },
+  {
+    "extension": "コム",
+    "name": "コム"
+  },
+  {
+    "extension": "ストア",
+    "name": "ストア"
+  },
+  {
+    "extension": "セール",
+    "name": "セール"
+  },
+  {
+    "extension": "ファッション",
+    "name": "ファッション"
+  },
+  {
+    "extension": "ポイント",
+    "name": "ポイント"
+  },
+  {
+    "extension": "みんな",
+    "name": "みんな"
+  },
+  {
+    "extension": "닷넷",
+    "name": "닷넷"
+  },
+  {
+    "extension": "닷컴",
+    "name": "닷컴"
+  },
+  {
+    "extension": "삼성",
+    "name": "삼성"
+  },
+  {
+    "extension": "一号店",
+    "name": "一号店"
+  },
+  {
+    "extension": "世界",
+    "name": "世界"
+  },
+  {
+    "extension": "中信",
+    "name": "中信"
+  },
+  {
+    "extension": "中文网",
+    "name": "中文网"
+  },
+  {
+    "extension": "亚马逊",
+    "name": "亚马逊"
+  },
+  {
+    "extension": "企业",
+    "name": "企业"
+  },
+  {
+    "extension": "佛山",
+    "name": "佛山"
+  },
+  {
+    "extension": "信息",
+    "name": "信息"
+  },
+  {
+    "extension": "健康",
+    "name": "健康"
+  },
+  {
+    "extension": "八卦",
+    "name": "八卦"
+  },
+  {
+    "extension": "公司",
+    "name": "公司"
+  },
+  {
+    "extension": "公益",
+    "name": "公益"
+  },
+  {
+    "extension": "商城",
+    "name": "商城"
+  },
+  {
+    "extension": "商店",
+    "name": "商店"
+  },
+  {
+    "extension": "商标",
+    "name": "商标"
+  },
+  {
+    "extension": "嘉里",
+    "name": "嘉里"
+  },
+  {
+    "extension": "嘉里大酒店",
+    "name": "嘉里大酒店"
+  },
+  {
+    "extension": "在线",
+    "name": "在线"
+  },
+  {
+    "extension": "大众汽车",
+    "name": "大众汽车"
+  },
+  {
+    "extension": "大拿",
+    "name": "大拿"
+  },
+  {
+    "extension": "天主教",
+    "name": "天主教"
+  },
+  {
+    "extension": "娱乐",
+    "name": "娱乐"
+  },
+  {
+    "extension": "家電",
+    "name": "家電"
+  },
+  {
+    "extension": "工行",
+    "name": "工行"
+  },
+  {
+    "extension": "广东",
+    "name": "广东"
+  },
+  {
+    "extension": "广州",
+    "name": "广州"
+  },
+  {
+    "extension": "微博",
+    "name": "微博"
+  },
+  {
+    "extension": "慈善",
+    "name": "慈善"
+  },
+  {
+    "extension": "我爱你",
+    "name": "我爱你"
+  },
+  {
+    "extension": "手机",
+    "name": "手机"
+  },
+  {
+    "extension": "手表",
+    "name": "手表"
+  },
+  {
+    "extension": "招聘",
+    "name": "招聘"
+  },
+  {
+    "extension": "政务",
+    "name": "政务"
+  },
+  {
+    "extension": "政府",
+    "name": "政府"
+  },
+  {
+    "extension": "新闻",
+    "name": "新闻"
+  },
+  {
+    "extension": "时尚",
+    "name": "时尚"
+  },
+  {
+    "extension": "普利司通",
+    "name": "普利司通"
+  },
+  {
+    "extension": "書籍",
+    "name": "書籍"
+  },
+  {
+    "extension": "机构",
+    "name": "机构"
+  },
+  {
+    "extension": "机构体制",
+    "name": "机构体制"
+  },
+  {
+    "extension": "欧莱雅",
+    "name": "欧莱雅"
+  },
+  {
+    "extension": "淡马锡",
+    "name": "淡马锡"
+  },
+  {
+    "extension": "深圳",
+    "name": "深圳"
+  },
+  {
+    "extension": "游戏",
+    "name": "游戏"
+  },
+  {
+    "extension": "点看",
+    "name": "点看"
+  },
+  {
+    "extension": "珠宝",
+    "name": "珠宝"
+  },
+  {
+    "extension": "盛貿飯店",
+    "name": "盛貿飯店"
+  },
+  {
+    "extension": "盛贸饭店",
+    "name": "盛贸饭店"
+  },
+  {
+    "extension": "移动",
+    "name": "移动"
+  },
+  {
+    "extension": "网址",
+    "name": "网址"
+  },
+  {
+    "extension": "网店",
+    "name": "网店"
+  },
+  {
+    "extension": "网站",
+    "name": "网站"
+  },
+  {
+    "extension": "网络",
+    "name": "网络"
+  },
+  {
+    "extension": "联通",
+    "name": "联通"
+  },
+  {
+    "extension": "诺基亚",
+    "name": "诺基亚"
+  },
+  {
+    "extension": "谷歌",
+    "name": "谷歌"
+  },
+  {
+    "extension": "购物",
+    "name": "购物"
+  },
+  {
+    "extension": "通用电气公司",
+    "name": "通用电气公司"
+  },
+  {
+    "extension": "通販",
+    "name": "通販"
+  },
+  {
+    "extension": "集团",
+    "name": "集团"
+  },
+  {
+    "extension": "電訊盈科",
+    "name": "電訊盈科"
+  },
+  {
+    "extension": "飞利浦",
+    "name": "飞利浦"
+  },
+  {
+    "extension": "食品",
+    "name": "食品"
+  },
+  {
+    "extension": "餐厅",
+    "name": "餐厅"
+  },
+  {
+    "extension": "香格里拉",
+    "name": "香格里拉"
+  },
+  {
+    "extension": "香港電訊",
+    "name": "香港電訊"
+  },
+  {
+    "extension": "點看",
+    "name": "點看"
+  }
+]
