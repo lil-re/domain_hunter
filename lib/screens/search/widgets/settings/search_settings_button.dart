@@ -14,22 +14,19 @@ class SearchSettingsButton extends StatelessWidget {
     Key? key,
     required this.onChanged,
     required this.selectedExtensions,
-  }) : super(key: key)  {
+  }) : super(key: key) {
     setAvailableDomains();
   }
 
   void setAvailableDomains() {
-    rootBundle.loadString('assets/json/domain_list.json')
-      .then((response) {
-        List data = json.decode(response);
-        availableDomains = data
-            .map((item) {
-              Extension extension = Extension.fromJson(item);
-              extension.selected = selectedExtensions.contains(extension.extension);
-              return extension;
-            })
-            .toList();
-      });
+    rootBundle.loadString('assets/json/domain_list.json').then((response) {
+      List data = json.decode(response);
+      availableDomains = data.map((item) {
+        Extension extension = Extension.fromJson(item);
+        extension.selected = selectedExtensions.contains(extension.extension);
+        return extension;
+      }).toList();
+    });
   }
 
   @override
