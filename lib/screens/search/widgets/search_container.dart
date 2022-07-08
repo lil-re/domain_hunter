@@ -1,3 +1,4 @@
+import 'dart:async';
 import 'dart:convert';
 import 'package:domain_hunter/models/domain.dart';
 import 'package:flutter/material.dart';
@@ -22,19 +23,24 @@ class SearchContainer extends StatefulWidget {
 }
 
 class SearchContainerState extends State<SearchContainer> {
+  Timer? debounce;
+  String? search;
   List<Domain> domains = [];
-  String? currentSearch;
 
   @override
-  void initState() {
-    super.initState();
-    getDomainList();
+  void dispose() {
+    debounce?.cancel();
+    super.dispose();
   }
 
   void updateLabel(String? value) {
-    setState(() {
-      currentSearch = value;
-      fetchData();
+    if (debounce?.isActive ?? false) debounce!.cancel();
+    debounce = Timer(const Duration(milliseconds: 300), () {
+      setState(() {
+        search = value;
+        print(value);
+        setDomainList();
+      });
     });
   }
 
@@ -42,38 +48,39 @@ class SearchContainerState extends State<SearchContainer> {
     // update settings
   }
 
-  void fetchData() {
-    // Fetch assets
+  void setDomainList() async {
+    if (search != null) {
+      Uri url = getApiUrl();
+      http.Response response = await http.get(url);
+
+      if (response.statusCode == 200) {
+        String data = getDomainsData(response);
+        List json = jsonDecode(data);
+        setState(() {
+          domains = getDomainNames(json);
+        });
+      }
+    } else {
+      setState(() {
+        domains = [];
+      });
+    }
   }
 
   Uri getApiUrl() {
     return Uri.parse(
-        'https://domaintyper.com/API/DomainCheckAsync?domain=coucou&tlds=[%22com%22,%22net%22,%22org%22,%22fr%22]');
-  }
-
-  void getDomainList() async {
-    Uri url = getApiUrl();
-
-    // Await the http get response, then decode the json-formatted response.
-    http.Response response = await http.get(url);
-
-    if (response.statusCode == 200) {
-      String data = getDomainsData(response);
-      List json = jsonDecode(data);
-      domains = getDomainNames(json);
-      print(domains);
-    } else {
-      print('Request failed');
-    }
+        'https://domaintyper.com/API/DomainCheckAsync?domain=$search&tlds=[%22com%22,%22net%22,%22org%22,%22fr%22]');
   }
 
   String getDomainsData(http.Response response) {
     RegExp regex = RegExp(r'(}{)');
     String body = response.body;
-    regex.allMatches(body).toList().reversed.forEach(
+    Iterable<RegExpMatch> matches = regex.allMatches(body).toList().reversed;
+    matches.forEach(
       (RegExpMatch match) {
-        body =
-            '${body.substring(0, match.start + 1)},${body.substring(match.end - 1, body.length)}';
+        String left = body.substring(0, match.start + 1);
+        String right = body.substring(match.end - 1, body.length);
+        body = '$left,$right';
       },
     );
     return '[$body]';
@@ -94,7 +101,7 @@ class SearchContainerState extends State<SearchContainer> {
                 children: [
                   SearchInput(
                     onChanged: updateLabel,
-                    value: currentSearch,
+                    value: search,
                   ),
                   SearchSettingsButton(
                     selectedExtensions: widget.selectedExtensions,
@@ -102,7 +109,7 @@ class SearchContainerState extends State<SearchContainer> {
                   ),
                 ],
               )),
-          SearchResultList(items: domains.map((e) => ({})).toList())
+          SearchResultList(items: domains)
         ],
       ),
     );

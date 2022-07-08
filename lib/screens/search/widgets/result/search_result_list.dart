@@ -1,8 +1,9 @@
+import 'package:domain_hunter/models/domain.dart';
 import 'package:domain_hunter/screens/search/widgets/result/search_result_list_item.dart';
 import 'package:flutter/material.dart';
 
 class SearchResultList extends StatefulWidget {
-  List items;
+  List<Domain> items;
 
   SearchResultList({
     Key? key,

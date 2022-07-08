@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 
 class SearchResultListItemStatus extends StatelessWidget {
-  String status;
+  bool status;
   IconData icon = Icons.check_circle;
   Color color = Colors.green;
 
@@ -13,12 +13,12 @@ class SearchResultListItemStatus extends StatelessWidget {
     setColor(status);
   }
 
-  void setIcon(String status) {
-    // Set icon
+  void setIcon(bool status) {
+    icon = status ? Icons.check_circle : Icons.cancel;
   }
 
-  void setColor(String status) {
-    // Set color
+  void setColor(bool status) {
+    color = status ? Colors.green : Colors.red;
   }
 
   @override

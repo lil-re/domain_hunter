@@ -1,9 +1,10 @@
+import 'package:domain_hunter/models/domain.dart';
 import 'package:domain_hunter/screens/search/widgets/result/search_result_list_item_status.dart';
 import 'package:domain_hunter/widgets/custom_box_decoration.dart';
 import 'package:flutter/material.dart';
 
 class SearchResultListItem extends StatelessWidget {
-  Map item;
+  Domain item;
 
   SearchResultListItem({
     Key? key,
@@ -26,15 +27,15 @@ class SearchResultListItem extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
-            const Text(
-              'domain.name',
-              style: TextStyle(
+            Text(
+              item.getDomainName(),
+              style: const TextStyle(
                 color: Colors.black,
                 fontSize: 20,
                 fontWeight: FontWeight.w600,
               ),
             ),
-            SearchResultListItemStatus(status: '')
+            SearchResultListItemStatus(status: item.status)
           ],
         ),
       ),
