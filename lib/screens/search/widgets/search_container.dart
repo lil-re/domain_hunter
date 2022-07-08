@@ -1,4 +1,5 @@
 import 'dart:convert';
+import 'package:domain_hunter/models/domain.dart';
 import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'package:domain_hunter/screens/search/widgets/input/search_input.dart';
@@ -21,7 +22,7 @@ class SearchContainer extends StatefulWidget {
 }
 
 class SearchContainerState extends State<SearchContainer> {
-  List domains = [];
+  List<Domain> domains = [];
   String? currentSearch;
 
   @override
@@ -45,22 +46,41 @@ class SearchContainerState extends State<SearchContainer> {
     // Fetch assets
   }
 
-  Uri getApiUrl () {
-    return Uri.parse('https://domaintyper.com/API/DomainCheckAsync?domain=s&tlds=[%22com%22,%22net%22]');
+  Uri getApiUrl() {
+    return Uri.parse(
+        'https://domaintyper.com/API/DomainCheckAsync?domain=coucou&tlds=[%22com%22,%22net%22,%22org%22,%22fr%22]');
   }
 
-  void getDomainList () async {
+  void getDomainList() async {
     Uri url = getApiUrl();
 
     // Await the http get response, then decode the json-formatted response.
     http.Response response = await http.get(url);
 
     if (response.statusCode == 200) {
-      print(response.body);
-      // var jsonResponse = jsonDecode(response.body) as Map<String, dynamic>;
+      String data = getDomainsData(response);
+      List json = jsonDecode(data);
+      domains = getDomainNames(json);
+      print(domains);
     } else {
       print('Request failed');
     }
+  }
+
+  String getDomainsData(http.Response response) {
+    RegExp regex = RegExp(r'(}{)');
+    String body = response.body;
+    regex.allMatches(body).toList().reversed.forEach(
+      (RegExpMatch match) {
+        body =
+            '${body.substring(0, match.start + 1)},${body.substring(match.end - 1, body.length)}';
+      },
+    );
+    return '[$body]';
+  }
+
+  List<Domain> getDomainNames(List json) {
+    return json.map((element) => Domain.fromJson(element)).toList();
   }
 
   @override
@@ -81,8 +101,7 @@ class SearchContainerState extends State<SearchContainer> {
                     onChanged: updateSettings,
                   ),
                 ],
-              )
-          ),
+              )),
           SearchResultList(items: domains.map((e) => ({})).toList())
         ],
       ),
