@@ -91,11 +91,11 @@ class SearchContainerState extends State<SearchContainer> {
 
   @override
   Widget build(BuildContext context) {
-    return Container(
-      margin: const EdgeInsets.all(10),
-      child: Column(
-        children: [
-          Row(
+    return Column(
+      children: [
+        Container(
+          margin: const EdgeInsets.all(10),
+          child: Row(
             children: [
               SearchInput(
                 onChanged: updateLabel,
@@ -107,9 +107,9 @@ class SearchContainerState extends State<SearchContainer> {
               ),
             ],
           ),
-          SearchResultList(items: domains)
-        ],
-      ),
+        ),
+        SearchResultList(items: domains),
+      ],
     );
   }
 }

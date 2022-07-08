@@ -5,11 +5,11 @@ import 'package:domain_hunter/widgets/custom_box_decoration.dart';
 import 'package:flutter/material.dart';
 
 class SearchSettingsListItem extends StatelessWidget {
-  Extension item;
+  Extension extension;
 
   SearchSettingsListItem({
     Key? key,
-    required this.item,
+    required this.extension,
   }) : super(key: key);
 
   @override
@@ -20,23 +20,20 @@ class SearchSettingsListItem extends StatelessWidget {
       child: Container(
         decoration: customBoxDecoration(),
         padding: const EdgeInsets.all(10),
-        margin: const EdgeInsets.symmetric(
-          horizontal: 10,
-          vertical: 5,
-        ),
+        margin: const EdgeInsets.only(bottom: 10),
         child: Row(
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.spaceBetween,
           children: [
             Text(
-              '.${item.extension}',
+              '.${extension.extension}',
               style: const TextStyle(
                 color: Colors.black,
                 fontSize: 20,
                 fontWeight: FontWeight.w600,
               ),
             ),
-            SearchSettingsListItemStatus(item: item)
+            SearchSettingsListItemStatus(extension: extension)
           ],
         ),
       ),

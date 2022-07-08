@@ -17,10 +17,4 @@ class Extension {
       name: jsonData['name'],
     );
   }
-
-  Extension select (bool value) {
-    selected = !selected;
-    // Save on local file
-    return this;
-  }
 }

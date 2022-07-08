@@ -3,11 +3,11 @@ import 'package:domain_hunter/screens/search/widgets/settings/search_settings_li
 import 'package:flutter/material.dart';
 
 class SearchSettingsList extends StatefulWidget {
-  List<Extension> items;
+  List<Extension> extensions;
 
   SearchSettingsList({
     Key? key,
-    required this.items,
+    required this.extensions,
   }) : super(key: key);
 
   @override
@@ -28,10 +28,15 @@ class _SearchSettingsListState extends State<SearchSettingsList> {
     return Expanded(
       child: ListView.builder(
         controller: controller,
-        itemCount: widget.items.length,
-        padding: const EdgeInsets.only(bottom: 50),
+        itemCount: widget.extensions.length,
+        padding: const EdgeInsets.only(
+          top: 10,
+          left: 10,
+          right: 10,
+          bottom: 50,
+        ),
         itemBuilder: (context, index) {
-          return SearchSettingsListItem(item: widget.items[index]);
+          return SearchSettingsListItem(extension: widget.extensions[index]);
         },
       ),
     );

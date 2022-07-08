@@ -29,7 +29,12 @@ class _SearchResultListState extends State<SearchResultList> {
       child: ListView.builder(
         controller: controller,
         itemCount: widget.items.length,
-        padding: const EdgeInsets.only(bottom: 10),
+        padding: const EdgeInsets.only(
+          top: 10,
+          left: 10,
+          right: 10,
+          bottom: 50,
+        ),
         itemBuilder: (context, index) {
           return SearchResultListItem(item: widget.items[index]);
         },

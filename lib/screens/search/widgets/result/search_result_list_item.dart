@@ -19,7 +19,7 @@ class SearchResultListItem extends StatelessWidget {
       child: Container(
         decoration: customBoxDecoration(),
         padding: const EdgeInsets.all(10),
-        margin: const EdgeInsets.only(top: 10),
+        margin: const EdgeInsets.only(bottom: 10),
         child: Row(
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.spaceBetween,

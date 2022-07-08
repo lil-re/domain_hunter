@@ -30,7 +30,7 @@ class _SearchSettingsDialogState extends State<SearchSettingsDialog> {
     super.initState();
   }
 
-  void updateSearch (String? value) {
+  void updateSearch(String? value) {
     setState(() {
       currentSearch = value ?? '';
       filteredExtensions = widget.availableDomains
@@ -61,18 +61,18 @@ class _SearchSettingsDialogState extends State<SearchSettingsDialog> {
             child: Column(
               children: [
                 Container(
-                    margin: const EdgeInsets.all(10),
-                    child: Row(
-                      children: [
-                        SearchInput(
-                          onChanged: updateSearch,
-                          value: currentSearch,
-                        ),
-                        SearchSettingsClose(),
-                      ],
-                    )
+                  padding: const EdgeInsets.all(10),
+                  child: Row(
+                    children: [
+                      SearchInput(
+                        onChanged: updateSearch,
+                        value: currentSearch,
+                      ),
+                      SearchSettingsClose(),
+                    ],
+                  ),
                 ),
-                SearchSettingsList(items: filteredExtensions),
+                SearchSettingsList(extensions: filteredExtensions),
                 const SizedBox(height: 20),
               ],
             ),
