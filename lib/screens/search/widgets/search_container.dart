@@ -29,8 +29,8 @@ class SearchContainerState extends State<SearchContainer> {
 
   @override
   void dispose() {
-    debounce?.cancel();
     super.dispose();
+    debounce?.cancel();
   }
 
   void updateLabel(String? value) {
@@ -38,7 +38,6 @@ class SearchContainerState extends State<SearchContainer> {
     debounce = Timer(const Duration(milliseconds: 300), () {
       setState(() {
         search = value;
-        print(value);
         setDomainList();
       });
     });
@@ -49,7 +48,7 @@ class SearchContainerState extends State<SearchContainer> {
   }
 
   void setDomainList() async {
-    if (search != null) {
+    if (search != null && search!.isNotEmpty) {
       Uri url = getApiUrl();
       http.Response response = await http.get(url);
 
@@ -93,22 +92,21 @@ class SearchContainerState extends State<SearchContainer> {
   @override
   Widget build(BuildContext context) {
     return Container(
+      margin: const EdgeInsets.all(10),
       child: Column(
         children: [
-          Container(
-              margin: const EdgeInsets.all(10),
-              child: Row(
-                children: [
-                  SearchInput(
-                    onChanged: updateLabel,
-                    value: search,
-                  ),
-                  SearchSettingsButton(
-                    selectedExtensions: widget.selectedExtensions,
-                    onChanged: updateSettings,
-                  ),
-                ],
-              )),
+          Row(
+            children: [
+              SearchInput(
+                onChanged: updateLabel,
+                value: search,
+              ),
+              SearchSettingsButton(
+                selectedExtensions: widget.selectedExtensions,
+                onChanged: updateSettings,
+              ),
+            ],
+          ),
           SearchResultList(items: domains)
         ],
       ),
