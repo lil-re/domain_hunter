@@ -7,27 +7,13 @@ import 'package:domain_hunter/screens/search/widgets/settings/search_settings_di
 
 class SearchSettingsButton extends StatelessWidget {
   Function onChanged;
-  List<String> selectedExtensions = [];
-  List<Extension> availableDomains = [];
+  List<Extension> extensions;
 
   SearchSettingsButton({
     Key? key,
+    required this.extensions,
     required this.onChanged,
-    required this.selectedExtensions,
-  }) : super(key: key) {
-    setAvailableDomains();
-  }
-
-  void setAvailableDomains() {
-    rootBundle.loadString('assets/json/domain_list.json').then((response) {
-      List data = json.decode(response);
-      availableDomains = data.map((item) {
-        Extension extension = Extension.fromJson(item);
-        extension.selected = selectedExtensions.contains(extension.extension);
-        return extension;
-      }).toList();
-    });
-  }
+  }) : super(key: key);
 
   @override
   Widget build(BuildContext context) {
@@ -52,7 +38,7 @@ class SearchSettingsButton extends StatelessWidget {
                 builder: (BuildContext context) {
                   return SearchSettingsDialog(
                     onChanged: onChanged,
-                    availableDomains: availableDomains,
+                    extensions: extensions,
                     selectedDomains: const [],
                   );
                 },

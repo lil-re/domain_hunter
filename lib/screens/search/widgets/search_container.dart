@@ -1,7 +1,9 @@
 import 'dart:async';
 import 'dart:convert';
 import 'package:domain_hunter/models/domain.dart';
+import 'package:domain_hunter/models/extension.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
 import 'package:domain_hunter/screens/search/widgets/input/search_input.dart';
 import 'package:domain_hunter/screens/search/widgets/result/search_result_list.dart';
@@ -9,14 +11,7 @@ import 'package:domain_hunter/screens/search/widgets/settings/search_settings_bu
 import 'package:shared_preferences/shared_preferences.dart';
 
 class SearchContainer extends StatefulWidget {
-  List<String> selectedExtensions = [];
-
-  SearchContainer({Key? key}) : super(key: key) {
-    // Obtain shared preferences.
-    SharedPreferences.getInstance().then((instance) {
-      selectedExtensions = instance.getStringList('selected_extensions') ?? [];
-    });
-  }
+  SearchContainer({Key? key}) : super(key: key);
 
   @override
   State<SearchContainer> createState() => SearchContainerState();
@@ -26,6 +21,16 @@ class SearchContainerState extends State<SearchContainer> {
   Timer? debounce;
   String? search;
   List<Domain> domains = [];
+  List<Extension> extensions = [];
+
+  /*
+  ** State
+  */
+  @override
+  void initState() async {
+    super.initState();
+    await setExtensionList();
+  }
 
   @override
   void dispose() {
@@ -33,6 +38,9 @@ class SearchContainerState extends State<SearchContainer> {
     debounce?.cancel();
   }
 
+  /*
+  ** Search
+  */
   void updateLabel(String? value) {
     if (debounce?.isActive ?? false) debounce!.cancel();
     debounce = Timer(const Duration(milliseconds: 300), () {
@@ -43,10 +51,9 @@ class SearchContainerState extends State<SearchContainer> {
     });
   }
 
-  void updateSettings() {
-    // update settings
-  }
-
+  /*
+  ** Domains
+  */
   void setDomainList() async {
     if (search != null && search!.isNotEmpty) {
       Uri url = getApiUrl();
@@ -89,6 +96,40 @@ class SearchContainerState extends State<SearchContainer> {
     return json.map((element) => Domain.fromJson(element)).toList();
   }
 
+  /*
+  ** Extensions
+  */
+  Future setExtensionList() async {
+    List<String> extensionsData = await getExtensionsData();
+    String response = await rootBundle.loadString(
+      'assets/json/domain_list.json',
+    );
+    List jsonData = json.decode(response);
+    setState(() {
+      extensions = getExtensionNames(jsonData, extensionsData);
+    });
+  }
+
+  Future<List<String>> getExtensionsData() async {
+    // Obtain shared preferences.
+    SharedPreferences instance = await SharedPreferences.getInstance();
+    return instance.getStringList('selected_extensions') ?? [];
+  }
+
+  List<Extension> getExtensionNames(
+    List jsonData,
+    List<String> extensionsData,
+  ) {
+    return jsonData.map((item) {
+      Extension extension = Extension.fromJson(item);
+      extension.selected = extensionsData.contains(extension.extension);
+      return extension;
+    }).toList();
+  }
+
+  /*
+  ** UI
+  */
   @override
   Widget build(BuildContext context) {
     return Column(
@@ -102,8 +143,8 @@ class SearchContainerState extends State<SearchContainer> {
                 value: search,
               ),
               SearchSettingsButton(
-                selectedExtensions: widget.selectedExtensions,
-                onChanged: updateSettings,
+                onChanged: setExtensionList,
+                extensions: extensions,
               ),
             ],
           ),

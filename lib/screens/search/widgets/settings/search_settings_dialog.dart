@@ -5,13 +5,13 @@ import 'package:domain_hunter/screens/search/widgets/settings/search_settings_li
 import 'package:flutter/material.dart';
 
 class SearchSettingsDialog extends StatefulWidget {
-  List<Extension> availableDomains = [];
+  List<Extension> extensions = [];
   List selectedDomains;
   Function onChanged;
 
   SearchSettingsDialog({
     Key? key,
-    required this.availableDomains,
+    required this.extensions,
     required this.selectedDomains,
     required this.onChanged,
   }) : super(key: key);
@@ -26,14 +26,15 @@ class _SearchSettingsDialogState extends State<SearchSettingsDialog> {
 
   @override
   void initState() {
-    filteredExtensions = widget.availableDomains;
+    filteredExtensions = widget.extensions;
+    filteredExtensions.sort((a, b) => b.selected ? 1 : -1);
     super.initState();
   }
 
   void updateSearch(String? value) {
     setState(() {
       currentSearch = value ?? '';
-      filteredExtensions = widget.availableDomains
+      filteredExtensions = widget.extensions
           .where((item) => item.extension.startsWith(currentSearch))
           .toList();
     });
