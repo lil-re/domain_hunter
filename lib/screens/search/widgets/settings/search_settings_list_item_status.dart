@@ -52,12 +52,20 @@ class _SearchSettingsListItemStatusState
   Future saveExtension() async {
     // Obtain shared preferences.
     SharedPreferences prefs = await SharedPreferences.getInstance();
+
     // Try reading data from the 'items' key.
     List<String> extensions = prefs.getStringList('selected_extensions') ?? [];
+
+    // Update selected extensions
+    int index = extensions.indexOf(extension.extension);
+    index > -1
+        ? extensions.removeAt(index)
+        : extensions.add(extension.extension);
+
     // Save an list of strings to 'selected_domains' key.
     await prefs.setStringList(
       'selected_extensions',
-      <String>[...extensions, extension.extension],
+      <String>[...extensions],
     );
   }
 
@@ -65,7 +73,6 @@ class _SearchSettingsListItemStatusState
     updateExtension();
     setIcon();
     await saveExtension();
-    widget.onChanged();
   }
 
   @override

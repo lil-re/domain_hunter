@@ -26,7 +26,7 @@ class SearchResultListItemStatus extends StatelessWidget {
     return Icon(
       icon,
       color: color,
-      size: 22,
+      size: 26,
     );
   }
 }

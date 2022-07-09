@@ -22,17 +22,21 @@ class SearchResultListItem extends StatelessWidget {
         margin: const EdgeInsets.only(bottom: 10),
         child: Row(
           crossAxisAlignment: CrossAxisAlignment.center,
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          mainAxisAlignment: MainAxisAlignment.start,
           children: [
-            Text(
-              item.getDomainName(),
-              style: const TextStyle(
-                color: Colors.black,
-                fontSize: 20,
-                fontWeight: FontWeight.w600,
+            SearchResultListItemStatus(status: item.status),
+            const SizedBox(width: 10),
+            Expanded(
+              child: Text(
+                item.getDomainName(),
+                style: const TextStyle(
+                  color: Colors.black,
+                  fontSize: 20,
+                  fontWeight: FontWeight.w600,
+                ),
               ),
             ),
-            SearchResultListItemStatus(status: item.status)
+            const SizedBox(width: 10),
           ],
         ),
       ),

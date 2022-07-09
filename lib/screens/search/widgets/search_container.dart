@@ -55,9 +55,7 @@ class SearchContainerState extends State<SearchContainer> {
   ** Domains
   */
   void setDomainList() async {
-    print(search);
-    print(extensions);
-    if (search != null && search!.isNotEmpty) {
+    if (search != null && search!.isNotEmpty && extensions.isNotEmpty) {
       Uri url = getApiUrl();
       http.Response response = await http.get(url);
 
@@ -65,7 +63,6 @@ class SearchContainerState extends State<SearchContainer> {
         String data = getDomainsData(response);
         List json = jsonDecode(data);
         setState(() {
-          print(json);
           domains = getDomainNames(json);
         });
       }
