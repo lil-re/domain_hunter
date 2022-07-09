@@ -22,21 +22,35 @@ class SearchSettingsDialog extends StatefulWidget {
 
 class _SearchSettingsDialogState extends State<SearchSettingsDialog> {
   String currentSearch = '';
-  List<Extension> filteredExtensions = [];
+  List<Extension> selectedExtensions = [];
+  List<Extension> availableExtensions = [];
 
   @override
   void initState() {
-    filteredExtensions = widget.extensions;
-    filteredExtensions.sort((a, b) => b.selected ? 1 : -1);
     super.initState();
+    updateSearch();
   }
 
-  void updateSearch(String? value) {
+  void updateSearch([String? value]) {
     setState(() {
       currentSearch = value ?? '';
-      filteredExtensions = widget.extensions
-          .where((item) => item.extension.startsWith(currentSearch))
+      selectedExtensions = widget.extensions
+          .where(
+            (Extension extension) =>
+                extension.selected &&
+                extension.extension.startsWith(currentSearch),
+          )
           .toList();
+      availableExtensions = widget.extensions
+          .where(
+            (Extension extension) =>
+                !extension.selected &&
+                extension.extension.startsWith(currentSearch),
+          )
+          .toList();
+
+      selectedExtensions.sort((a, b) => a.extension.compareTo(b.extension));
+      availableExtensions.sort((a, b) => a.extension.compareTo(b.extension));
     });
   }
 
@@ -73,7 +87,16 @@ class _SearchSettingsDialogState extends State<SearchSettingsDialog> {
                     ],
                   ),
                 ),
-                SearchSettingsList(extensions: filteredExtensions),
+                SearchSettingsList(
+                  extensions: [
+                    ...selectedExtensions,
+                    ...availableExtensions,
+                  ],
+                  onChanged: () {
+                    updateSearch();
+                    widget.onChanged();
+                  },
+                ),
                 const SizedBox(height: 20),
               ],
             ),

@@ -4,10 +4,12 @@ import 'package:shared_preferences/shared_preferences.dart';
 
 class SearchSettingsListItemStatus extends StatefulWidget {
   Extension extension;
+  Function onChanged;
 
   SearchSettingsListItemStatus({
     Key? key,
     required this.extension,
+    required this.onChanged,
   });
 
   @override
@@ -26,6 +28,13 @@ class _SearchSettingsListItemStatusState
     extension = widget.extension;
     setIcon();
     super.initState();
+  }
+
+  @override
+  void didUpdateWidget(covariant SearchSettingsListItemStatus oldWidget) {
+    super.didUpdateWidget(oldWidget);
+    extension = widget.extension;
+    setIcon();
   }
 
   void setIcon() {
@@ -56,6 +65,7 @@ class _SearchSettingsListItemStatusState
     updateExtension();
     setIcon();
     await saveExtension();
+    widget.onChanged();
   }
 
   @override

@@ -6,10 +6,12 @@ import 'package:flutter/material.dart';
 
 class SearchSettingsListItem extends StatelessWidget {
   Extension extension;
+  Function onChanged;
 
   SearchSettingsListItem({
     Key? key,
     required this.extension,
+    required this.onChanged,
   }) : super(key: key);
 
   @override
@@ -33,7 +35,10 @@ class SearchSettingsListItem extends StatelessWidget {
                 fontWeight: FontWeight.w600,
               ),
             ),
-            SearchSettingsListItemStatus(extension: extension)
+            SearchSettingsListItemStatus(
+              extension: extension,
+              onChanged: onChanged,
+            )
           ],
         ),
       ),

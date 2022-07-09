@@ -4,10 +4,12 @@ import 'package:flutter/material.dart';
 
 class SearchSettingsList extends StatefulWidget {
   List<Extension> extensions;
+  Function onChanged;
 
   SearchSettingsList({
     Key? key,
     required this.extensions,
+    required this.onChanged,
   }) : super(key: key);
 
   @override
@@ -36,7 +38,10 @@ class _SearchSettingsListState extends State<SearchSettingsList> {
           bottom: 50,
         ),
         itemBuilder: (context, index) {
-          return SearchSettingsListItem(extension: widget.extensions[index]);
+          return SearchSettingsListItem(
+            extension: widget.extensions[index],
+            onChanged: widget.onChanged,
+          );
         },
       ),
     );
