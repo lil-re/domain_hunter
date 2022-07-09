@@ -2,6 +2,7 @@ import 'dart:async';
 import 'dart:convert';
 import 'package:domain_hunter/models/domain.dart';
 import 'package:domain_hunter/models/extension.dart';
+import 'package:domain_hunter/utilities/types.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
@@ -22,6 +23,7 @@ class SearchContainerState extends State<SearchContainer> {
   String? search;
   List<Domain> domains = [];
   List<Extension> extensions = [];
+  JsonData favorites = {};
 
   /*
   ** State
@@ -29,6 +31,7 @@ class SearchContainerState extends State<SearchContainer> {
   @override
   void initState() {
     super.initState();
+    setFavoritesList();
     setExtensionList();
   }
 
@@ -99,7 +102,11 @@ class SearchContainerState extends State<SearchContainer> {
   }
 
   List<Domain> getDomainNames(List json) {
-    List<Domain> domains = json.map((e) => Domain.fromJson(e)).toList();
+    List<Domain> domains = json.map((element) {
+      Domain domain = Domain.fromJson(element);
+      domain.selected = favorites.containsKey(domain.getDomainName());
+      return domain;
+    }).toList();
     domains.sort((a, b) => a.tld.compareTo(b.tld));
     return domains;
   }
@@ -136,6 +143,18 @@ class SearchContainerState extends State<SearchContainer> {
   }
 
   /*
+  ** Extensions
+  */
+  void setFavoritesList() async {
+    // Obtain shared preferences.
+    SharedPreferences instance = await SharedPreferences.getInstance();
+    String stringData = instance.getString('selected_domains') ?? '{}';
+    setState(() {
+      favorites = jsonDecode(stringData);
+    });
+  }
+
+  /*
   ** UI
   */
   @override
@@ -160,7 +179,7 @@ class SearchContainerState extends State<SearchContainer> {
             ],
           ),
         ),
-        SearchResultList(items: domains),
+        SearchResultList(domains: domains),
       ],
     );
   }

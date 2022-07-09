@@ -4,11 +4,13 @@ class Domain {
   String domain;
   String tld;
   bool status;
+  bool selected;
 
   Domain({
     required this.domain,
     required this.tld,
     required this.status,
+    this.selected = false,
   });
 
   factory Domain.fromJson(JsonData jsonData) {
@@ -17,6 +19,15 @@ class Domain {
       tld: jsonData['tld'],
       status: jsonData['status'].toLowerCase() == 'true',
     );
+  }
+
+  JsonData toJson() {
+    return {
+      'domain': domain,
+      'tld': tld,
+      'status': status,
+      'selected': selected,
+    };
   }
 
   String getDomainName() {

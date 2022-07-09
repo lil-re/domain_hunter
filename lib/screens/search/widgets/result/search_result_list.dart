@@ -3,11 +3,11 @@ import 'package:domain_hunter/screens/search/widgets/result/search_result_list_i
 import 'package:flutter/material.dart';
 
 class SearchResultList extends StatefulWidget {
-  List<Domain> items;
+  List<Domain> domains;
 
   SearchResultList({
     Key? key,
-    required this.items,
+    required this.domains,
   }) : super(key: key);
 
   @override
@@ -28,7 +28,7 @@ class _SearchResultListState extends State<SearchResultList> {
     return Expanded(
       child: ListView.builder(
         controller: controller,
-        itemCount: widget.items.length,
+        itemCount: widget.domains.length,
         padding: const EdgeInsets.only(
           top: 10,
           left: 10,
@@ -36,7 +36,7 @@ class _SearchResultListState extends State<SearchResultList> {
           bottom: 50,
         ),
         itemBuilder: (context, index) {
-          return SearchResultListItem(item: widget.items[index]);
+          return SearchResultListItem(domain: widget.domains[index]);
         },
       ),
     );

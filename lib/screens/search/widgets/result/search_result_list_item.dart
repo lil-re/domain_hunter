@@ -1,14 +1,15 @@
 import 'package:domain_hunter/models/domain.dart';
+import 'package:domain_hunter/screens/search/widgets/result/search_result_list_item_favorite.dart';
 import 'package:domain_hunter/screens/search/widgets/result/search_result_list_item_status.dart';
 import 'package:domain_hunter/widgets/custom_box_decoration.dart';
 import 'package:flutter/material.dart';
 
 class SearchResultListItem extends StatelessWidget {
-  Domain item;
+  Domain domain;
 
   SearchResultListItem({
     Key? key,
-    required this.item,
+    required this.domain,
   }) : super(key: key);
 
   @override
@@ -24,11 +25,11 @@ class SearchResultListItem extends StatelessWidget {
           crossAxisAlignment: CrossAxisAlignment.center,
           mainAxisAlignment: MainAxisAlignment.start,
           children: [
-            SearchResultListItemStatus(status: item.status),
+            SearchResultListItemStatus(status: domain.status),
             const SizedBox(width: 10),
             Expanded(
               child: Text(
-                item.getDomainName(),
+                domain.getDomainName(),
                 style: const TextStyle(
                   color: Colors.black,
                   fontSize: 20,
@@ -37,6 +38,10 @@ class SearchResultListItem extends StatelessWidget {
               ),
             ),
             const SizedBox(width: 10),
+            SearchResultListItemFavorite(
+              domain: domain,
+              onChanged: () {},
+            ),
           ],
         ),
       ),
