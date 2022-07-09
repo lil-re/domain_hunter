@@ -27,9 +27,9 @@ class SearchContainerState extends State<SearchContainer> {
   ** State
   */
   @override
-  void initState() async {
+  void initState() {
     super.initState();
-    await setExtensionList();
+    setExtensionList();
   }
 
   @override
@@ -55,6 +55,8 @@ class SearchContainerState extends State<SearchContainer> {
   ** Domains
   */
   void setDomainList() async {
+    print(search);
+    print(extensions);
     if (search != null && search!.isNotEmpty) {
       Uri url = getApiUrl();
       http.Response response = await http.get(url);
@@ -63,6 +65,7 @@ class SearchContainerState extends State<SearchContainer> {
         String data = getDomainsData(response);
         List json = jsonDecode(data);
         setState(() {
+          print(json);
           domains = getDomainNames(json);
         });
       }
@@ -74,8 +77,14 @@ class SearchContainerState extends State<SearchContainer> {
   }
 
   Uri getApiUrl() {
+    String tlds = extensions
+        .where((Extension extension) => extension.selected)
+        .map((Extension extension) => '%22${extension.extension}%22')
+        .join(',');
+
     return Uri.parse(
-        'https://domaintyper.com/API/DomainCheckAsync?domain=$search&tlds=[%22com%22,%22net%22,%22org%22,%22fr%22]');
+      'https://domaintyper.com/API/DomainCheckAsync?domain=$search&tlds=[$tlds]',
+    );
   }
 
   String getDomainsData(http.Response response) {
@@ -93,7 +102,9 @@ class SearchContainerState extends State<SearchContainer> {
   }
 
   List<Domain> getDomainNames(List json) {
-    return json.map((element) => Domain.fromJson(element)).toList();
+    List<Domain> domains = json.map((e) => Domain.fromJson(e)).toList();
+    domains.sort((a, b) => a.tld.compareTo(b.tld));
+    return domains;
   }
 
   /*
@@ -143,7 +154,10 @@ class SearchContainerState extends State<SearchContainer> {
                 value: search,
               ),
               SearchSettingsButton(
-                onChanged: setExtensionList,
+                onChanged: () {
+                  setExtensionList();
+                  setDomainList();
+                },
                 extensions: extensions,
               ),
             ],
