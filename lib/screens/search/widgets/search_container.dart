@@ -19,6 +19,15 @@ class SearchContainer extends StatefulWidget {
 }
 
 class SearchContainerState extends State<SearchContainer> {
+  final List<String> defaultExtensions = [
+    'com',
+    'net',
+    'org',
+    'co',
+    'io',
+    'app'
+  ];
+
   bool loading = false;
   Timer? debounce;
   String? search;
@@ -130,15 +139,33 @@ class SearchContainerState extends State<SearchContainer> {
       'assets/json/domain_list.json',
     );
     List jsonData = json.decode(response);
+
     setState(() {
       extensions = getExtensionNames(jsonData, extensionsData);
     });
   }
 
+  Future setDefaultExtensions() async {
+    // Obtain shared preferences.
+    SharedPreferences prefs = await SharedPreferences.getInstance();
+
+    // Save a list of strings to 'selected_extensions' key.
+    await prefs.setStringList(
+      'selected_extensions',
+      defaultExtensions,
+    );
+  }
+
   Future<List<String>> getExtensionsData() async {
     // Obtain shared preferences.
     SharedPreferences instance = await SharedPreferences.getInstance();
-    return instance.getStringList('selected_extensions') ?? [];
+    List<String>? extensions = instance.getStringList('selected_extensions');
+
+    if (extensions == null || extensions.isEmpty) {
+      setDefaultExtensions();
+      return defaultExtensions;
+    }
+    return extensions;
   }
 
   List<Extension> getExtensionNames(

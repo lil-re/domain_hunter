@@ -62,7 +62,7 @@ class _SearchSettingsListItemStatusState
         ? extensions.removeAt(index)
         : extensions.add(extension.extension);
 
-    // Save a list of strings to 'selected_domains' key.
+    // Save a list of strings to 'selected_extensions' key.
     await prefs.setStringList(
       'selected_extensions',
       <String>[...extensions],

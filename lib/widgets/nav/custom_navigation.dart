@@ -19,7 +19,7 @@ class CustomNavigation extends StatelessWidget {
   }
 
   Color getIconColor(int iconIndex) {
-    return iconIndex == index ? Colors.red.shade700 : Colors.grey.shade600;
+    return iconIndex == index ? Colors.blue.shade800 : Colors.grey.shade600;
   }
 
   @override
@@ -33,33 +33,32 @@ class CustomNavigation extends StatelessWidget {
         children: navigationItems.isNotEmpty
             ? navigationItems
             : [
-          IconButton(
-            icon: const Icon(Icons.search),
-            color: getIconColor(0),
-            iconSize: 30,
-            onPressed: () {
-              onTap(0);
-            },
-          ),
-          IconButton(
-            icon: const Icon(Icons.favorite_outline),
-            color: getIconColor(1),
-            iconSize: 30,
-            onPressed: () {
-              onTap(1);
-            },
-          ),
-          IconButton(
-            icon: const Icon(Icons.settings),
-            color: getIconColor(2),
-            iconSize: 30,
-            onPressed: () {
-              onTap(2);
-            },
-          ),
-        ],
+                IconButton(
+                  icon: const Icon(Icons.search),
+                  color: getIconColor(0),
+                  iconSize: 30,
+                  onPressed: () {
+                    onTap(0);
+                  },
+                ),
+                IconButton(
+                  icon: const Icon(Icons.favorite),
+                  color: getIconColor(1),
+                  iconSize: 30,
+                  onPressed: () {
+                    onTap(1);
+                  },
+                ),
+                IconButton(
+                  icon: const Icon(Icons.settings),
+                  color: getIconColor(2),
+                  iconSize: 30,
+                  onPressed: () {
+                    onTap(2);
+                  },
+                ),
+              ],
       ),
     );
   }
 }
-
