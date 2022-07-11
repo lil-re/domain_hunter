@@ -1,5 +1,14 @@
 {
   "favorites": "Favorites",
   "search": "Search",
-  "settings": "Settings"
+  "settings": "Settings",
+  "data": "Data",
+  "dataText": "DomainHunter stores no data on any web server. All of your data are stored on your phone. Click on the button below to remove all of your data (favorite domain names and selected domain extensions).",
+  "dataButton": "Remove data",
+  "api": "API",
+  "apiText": "DomainHunter uses DomainTyper's API to check domain names availability.",
+  "apiButton": "Visit DomainTyper.com",
+  "sourceCode": "Source code",
+  "sourceCodeText": "DomainHunter is free and open source. The source code is available on Github.",
+  "sourceCodeButton": "View source code"
 }

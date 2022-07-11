@@ -1,5 +1,14 @@
 {
   "favorites": "Favoris",
   "search": "Recherche",
-  "settings": "Paramètres"
+  "settings": "Paramètres",
+  "data": "Données",
+  "dataText": "DomainHunter ne conserve aucune donnée sur des serveurs web. Toutes vos données sont conservées sur votre téléphone. Cliquez sur le bouton ci-dessous pour supprimer vos données (noms de domaines favoris et extensions de domaines sélectionnées).",
+  "dataButton": "Supprimer les données",
+  "api": "API",
+  "apiText": "DomainHunter utilise l'API de DomainTyper pour vérifier la disponibilité des noms de domaines.",
+  "apiButton": "Visiter DomainTyper.com",
+  "sourceCode": "Code source",
+  "sourceCodeText": "DomainHunter est gratuit et ouvert. Le code source est disponible sur Github.",
+  "sourceCodeButton": "Voir le code source"
 }
