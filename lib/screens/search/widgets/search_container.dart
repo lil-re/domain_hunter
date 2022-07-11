@@ -19,6 +19,7 @@ class SearchContainer extends StatefulWidget {
 }
 
 class SearchContainerState extends State<SearchContainer> {
+  bool loading = false;
   Timer? debounce;
   String? search;
   List<Domain> domains = [];
@@ -41,6 +42,12 @@ class SearchContainerState extends State<SearchContainer> {
     debounce?.cancel();
   }
 
+  void updateLoading() {
+    setState(() {
+      loading = !loading;
+    });
+  }
+
   /*
   ** Search
   */
@@ -58,6 +65,8 @@ class SearchContainerState extends State<SearchContainer> {
   ** Domains
   */
   void setDomainList() async {
+    updateLoading();
+
     if (search != null && search!.isNotEmpty && extensions.isNotEmpty) {
       Uri url = getApiUrl();
       http.Response response = await http.get(url);
@@ -74,6 +83,7 @@ class SearchContainerState extends State<SearchContainer> {
         domains = [];
       });
     }
+    updateLoading();
   }
 
   Uri getApiUrl() {
@@ -179,7 +189,8 @@ class SearchContainerState extends State<SearchContainer> {
             ],
           ),
         ),
-        SearchResultList(domains: domains),
+        if (loading) CircularProgressIndicator(color: Colors.blue.shade800),
+        if (!loading) SearchResultList(domains: domains),
       ],
     );
   }
