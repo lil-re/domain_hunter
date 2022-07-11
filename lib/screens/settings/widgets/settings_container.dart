@@ -33,12 +33,13 @@ class SettingsContainer extends StatelessWidget {
   Widget build(BuildContext context) {
     return Container(
       margin: const EdgeInsets.all(10),
-      child: Column(
+      child: ListView(
         children: [
           SettingsOption(
             title: AppLocalizations.of(context)!.data,
             text: AppLocalizations.of(context)!.dataText,
             buttonLabel: AppLocalizations.of(context)!.dataButton,
+            displayDivider: false,
             onPressed: () {
               resetExtensions();
               resetDomains();
@@ -54,7 +55,6 @@ class SettingsContainer extends StatelessWidget {
                 ),
               );
             },
-            displayDivider: false,
           ),
           SettingsOption(
             title: AppLocalizations.of(context)!.api,
@@ -67,6 +67,12 @@ class SettingsContainer extends StatelessWidget {
             text: AppLocalizations.of(context)!.sourceCodeText,
             buttonLabel: AppLocalizations.of(context)!.sourceCodeButton,
             buttonLink: 'https://github.com/lil-re/domain_hunter',
+          ),
+          SettingsOption(
+            title: AppLocalizations.of(context)!.illustration,
+            text: AppLocalizations.of(context)!.illustrationText,
+            buttonLabel: AppLocalizations.of(context)!.illustrationButton,
+            buttonLink: 'https://icons8.com/illustrations/author/SeNkWCgQNZ1P',
           ),
         ],
       ),

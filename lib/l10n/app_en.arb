@@ -12,5 +12,8 @@
   "apiButton": "Visit DomainTyper.com",
   "sourceCode": "Source code",
   "sourceCodeText": "DomainHunter is free and open source. The source code is available on Github.",
-  "sourceCodeButton": "View source code"
+  "sourceCodeButton": "View source code",
+  "illustration": "Illustration",
+  "illustrationText": "Illustration by NinaWave from Ouch!",
+  "illustrationButton": "More on Ouch!"
 }
