@@ -66,9 +66,7 @@ class _SearchResultListItemFavoriteState
         ? domains.remove(domain.getDomainName())
         : domains[domain.getDomainName()] = domain.toJson();
 
-    print(domains);
-
-    // Save an list of strings to 'selected_domains' key.
+    // Save JSON string to 'selected_domains' key.
     await prefs.setString(
       'selected_domains',
       jsonEncode(domains),

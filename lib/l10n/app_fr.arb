@@ -5,6 +5,7 @@
   "data": "Données",
   "dataText": "DomainHunter ne conserve aucune donnée sur des serveurs web. Toutes vos données sont conservées sur votre téléphone. Cliquez sur le bouton ci-dessous pour supprimer vos données (noms de domaines favoris et extensions de domaines sélectionnées).",
   "dataButton": "Supprimer les données",
+  "dataDeleted": "Vos données ont été supprimées avec succès",
   "api": "API",
   "apiText": "DomainHunter utilise l'API de DomainTyper pour vérifier la disponibilité des noms de domaines.",
   "apiButton": "Visiter DomainTyper.com",
