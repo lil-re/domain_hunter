@@ -21,6 +21,15 @@ class Domain {
     );
   }
 
+  factory Domain.fromFavorite(JsonData jsonData) {
+    return Domain(
+      domain: jsonData['domain'],
+      tld: jsonData['tld'],
+      status: jsonData['status'],
+      selected: jsonData['selected'],
+    );
+  }
+
   JsonData toJson() {
     return {
       'domain': domain,
