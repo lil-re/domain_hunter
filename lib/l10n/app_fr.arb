@@ -2,6 +2,7 @@
   "favorites": "Favoris",
   "search": "Recherche",
   "settings": "Paramètres",
+  "hunt": "Chassez le nom\nde domaine parfait",
   "data": "Données",
   "dataText": "DomainHunter ne conserve aucune donnée sur des serveurs web. Toutes vos données sont conservées sur votre téléphone. Cliquez sur le bouton ci-dessous pour supprimer vos données (noms de domaines favoris et extensions de domaines sélectionnées).",
   "dataButton": "Supprimer les données",

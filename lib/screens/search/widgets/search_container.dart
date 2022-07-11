@@ -3,6 +3,7 @@ import 'dart:convert';
 import 'package:domain_hunter/models/domain.dart';
 import 'package:domain_hunter/models/extension.dart';
 import 'package:domain_hunter/utilities/types.dart';
+import 'package:domain_hunter/widgets/welcome_container.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:http/http.dart' as http;
@@ -217,7 +218,8 @@ class SearchContainerState extends State<SearchContainer> {
           ),
         ),
         if (loading) CircularProgressIndicator(color: Colors.blue.shade800),
-        if (!loading) SearchResultList(domains: domains),
+        if (!loading && domains.isEmpty) const WelcomeContainer(),
+        if (!loading && domains.isNotEmpty) SearchResultList(domains: domains),
       ],
     );
   }
